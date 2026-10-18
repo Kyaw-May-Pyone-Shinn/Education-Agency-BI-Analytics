@@ -1,0 +1,290 @@
+visa_id,sj_id,app_id,visa_status,visa_outcome
+1,1,1,Pending Decision,
+2,4,2,Approved,Approved
+3,6,3,Pending Decision,
+4,9,6,Approved,Approved
+5,12,8,Preparing,
+6,14,10,Preparing,
+7,15,12,Pending Decision,
+8,17,14,Pending Decision,
+9,20,18,Approved,Approved
+10,23,19,Preparing,
+11,25,22,Approved,Approved
+12,26,23,Approved,Approved
+13,34,32,Approved,Approved
+14,41,42,Preparing,
+15,42,43,Pending Decision,
+16,47,48,Refused,Refused
+17,55,57,Preparing,
+18,61,63,Approved,Approved
+19,63,66,Refused,Refused
+20,65,67,Approved,Approved
+21,68,69,Approved,Approved
+22,79,83,Refused,Refused
+23,81,85,Approved,Approved
+24,87,93,Approved,Approved
+25,88,95,Approved,Approved
+26,91,100,Preparing,
+27,95,102,Preparing,
+28,97,104,Approved,Approved
+29,99,105,Preparing,
+30,100,106,Approved,Approved
+31,105,109,Approved,Approved
+32,110,117,Pending Decision,
+33,111,119,Approved,Approved
+34,116,121,Pending Decision,
+35,119,126,Approved,Approved
+36,120,127,Pending Decision,
+37,121,128,Preparing,
+38,122,129,Pending Decision,
+39,125,132,Pending Decision,
+40,127,135,Approved,Approved
+41,130,140,Pending Decision,
+42,134,146,Preparing,
+43,136,149,Approved,Approved
+44,139,152,Preparing,
+45,147,164,Approved,Approved
+46,148,166,Preparing,
+47,158,174,Refused,Refused
+48,161,180,Pending Decision,
+49,165,185,Pending Decision,
+50,166,186,Preparing,
+51,170,192,Preparing,
+52,175,198,Approved,Approved
+53,178,202,Pending Decision,
+54,186,209,Approved,Approved
+55,189,213,Approved,Approved
+56,190,214,Preparing,
+57,192,219,Preparing,
+58,197,221,Pending Decision,
+59,198,222,Approved,Approved
+60,199,225,Pending Decision,
+61,202,229,Approved,Approved
+62,204,232,Preparing,
+63,214,242,Pending Decision,
+64,216,245,Approved,Approved
+65,218,248,Approved,Approved
+66,227,256,Preparing,
+67,234,263,Approved,Approved
+68,242,269,Pending Decision,
+69,246,273,Preparing,
+70,251,278,Preparing,
+71,253,281,Pending Decision,
+72,256,283,Pending Decision,
+73,258,284,Approved,Approved
+74,259,285,Approved,Approved
+75,261,287,Pending Decision,
+76,268,298,Approved,Approved
+77,270,300,Preparing,
+78,271,301,Preparing,
+79,272,302,Pending Decision,
+80,281,311,Pending Decision,
+81,283,313,Approved,Approved
+82,284,314,Preparing,
+83,286,316,Preparing,
+84,290,321,Approved,Approved
+85,291,322,Preparing,
+86,294,326,Approved,Approved
+87,295,327,Approved,Approved
+88,296,329,Approved,Approved
+89,301,332,Preparing,
+90,304,335,Preparing,
+91,305,337,Pending Decision,
+92,315,348,Pending Decision,
+93,317,350,Approved,Approved
+94,323,356,Approved,Approved
+95,326,360,Approved,Approved
+96,329,364,Pending Decision,
+97,333,370,Refused,Refused
+98,335,374,Preparing,
+99,338,378,Approved,Approved
+100,339,380,Approved,Approved
+101,345,384,Approved,Approved
+102,346,387,Preparing,
+103,347,388,Approved,Approved
+104,348,390,Preparing,
+105,350,393,Pending Decision,
+106,356,401,Approved,Approved
+107,357,403,Preparing,
+108,371,412,Approved,Approved
+109,373,414,Pending Decision,
+110,374,416,Pending Decision,
+111,375,417,Pending Decision,
+112,376,420,Pending Decision,
+113,380,421,Approved,Approved
+114,389,432,Preparing,
+115,390,434,Approved,Approved
+116,392,438,Approved,Approved
+117,406,453,Pending Decision,
+118,409,457,Pending Decision,
+119,410,459,Approved,Approved
+120,411,460,Preparing,
+121,415,467,Preparing,
+122,417,468,Pending Decision,
+123,425,476,Approved,Approved
+124,426,479,Approved,Approved
+125,430,486,Preparing,
+126,432,488,Approved,Approved
+127,436,490,Preparing,
+128,437,493,Approved,Approved
+129,440,495,Approved,Approved
+130,442,497,Approved,Approved
+131,444,498,Approved,Approved
+132,448,503,Approved,Approved
+133,452,505,Approved,Approved
+134,453,507,Preparing,
+135,456,509,Approved,Approved
+136,457,510,Approved,Approved
+137,458,511,Preparing,
+138,465,519,Pending Decision,
+139,468,524,Refused,Refused
+140,471,527,Approved,Approved
+141,482,535,Approved,Approved
+142,484,536,Approved,Approved
+143,487,537,Approved,Approved
+144,491,541,Approved,Approved
+145,495,543,Approved,Approved
+146,499,548,Pending Decision,
+147,502,549,Approved,Approved
+148,511,558,Pending Decision,
+149,512,560,Approved,Approved
+150,514,564,Preparing,
+151,515,565,Pending Decision,
+152,524,576,Preparing,
+153,528,580,Approved,Approved
+154,533,586,Preparing,
+155,539,590,Preparing,
+156,541,592,Preparing,
+157,542,593,Approved,Approved
+158,547,597,Approved,Approved
+159,555,604,Refused,Refused
+160,556,606,Preparing,
+161,562,616,Pending Decision,
+162,564,620,Approved,Approved
+163,566,622,Pending Decision,
+164,567,623,Pending Decision,
+165,573,630,Pending Decision,
+166,575,631,Pending Decision,
+167,577,633,Approved,Approved
+168,582,637,Approved,Approved
+169,584,642,Refused,Refused
+170,586,646,Preparing,
+171,590,655,Approved,Approved
+172,591,657,Preparing,
+173,593,659,Refused,Refused
+174,594,660,Approved,Approved
+175,595,661,Approved,Approved
+176,598,664,Approved,Approved
+177,609,678,Pending Decision,
+178,613,684,Approved,Approved
+179,616,689,Preparing,
+180,620,690,Approved,Approved
+181,623,694,Pending Decision,
+182,626,698,Approved,Approved
+183,636,704,Approved,Approved
+184,639,708,Approved,Approved
+185,640,709,Approved,Approved
+186,642,712,Approved,Approved
+187,643,713,Approved,Approved
+188,644,715,Approved,Approved
+189,646,718,Approved,Approved
+190,649,722,Pending Decision,
+191,653,726,Pending Decision,
+192,655,730,Approved,Approved
+193,660,735,Pending Decision,
+194,661,737,Approved,Approved
+195,662,738,Refused,Refused
+196,670,745,Approved,Approved
+197,672,749,Pending Decision,
+198,673,751,Approved,Approved
+199,674,753,Approved,Approved
+200,676,755,Pending Decision,
+201,677,756,Refused,Refused
+202,684,763,Approved,Approved
+203,687,765,Preparing,
+204,695,777,Pending Decision,
+205,696,778,Pending Decision,
+206,701,782,Preparing,
+207,704,784,Approved,Approved
+208,707,786,Approved,Approved
+209,709,788,Pending Decision,
+210,715,791,Approved,Approved
+211,720,795,Preparing,
+212,722,796,Approved,Approved
+213,723,797,Pending Decision,
+214,725,800,Pending Decision,
+215,732,807,Preparing,
+216,734,809,Approved,Approved
+217,736,812,Preparing,
+218,737,813,Approved,Approved
+219,742,820,Approved,Approved
+220,745,823,Preparing,
+221,746,824,Preparing,
+222,748,825,Approved,Approved
+223,749,826,Approved,Approved
+224,757,837,Approved,Approved
+225,759,841,Approved,Approved
+226,764,849,Preparing,
+227,775,855,Pending Decision,
+228,787,867,Approved,Approved
+229,791,870,Approved,Approved
+230,800,878,Approved,Approved
+231,801,880,Approved,Approved
+232,802,881,Preparing,
+233,805,884,Preparing,
+234,809,891,Approved,Approved
+235,812,895,Preparing,
+236,813,897,Pending Decision,
+237,816,903,Preparing,
+238,819,906,Approved,Approved
+239,821,908,Approved,Approved
+240,825,911,Approved,Approved
+241,826,912,Approved,Approved
+242,827,914,Approved,Approved
+243,830,920,Approved,Approved
+244,841,931,Approved,Approved
+245,843,935,Pending Decision,
+246,844,938,Refused,Refused
+247,847,941,Pending Decision,
+248,848,943,Approved,Approved
+249,849,944,Pending Decision,
+250,850,947,Pending Decision,
+251,851,949,Preparing,
+252,856,956,Approved,Approved
+253,858,960,Approved,Approved
+254,862,962,Pending Decision,
+255,866,965,Approved,Approved
+256,868,969,Approved,Approved
+257,876,976,Pending Decision,
+258,877,977,Approved,Approved
+259,879,978,Preparing,
+260,887,986,Preparing,
+261,888,987,Approved,Approved
+262,890,991,Approved,Approved
+263,894,997,Approved,Approved
+264,895,998,Approved,Approved
+265,896,999,Preparing,
+266,899,1005,Refused,Refused
+267,902,1008,Approved,Approved
+268,907,1014,Preparing,
+269,909,1016,Approved,Approved
+270,910,1018,Approved,Approved
+271,915,1024,Preparing,
+272,926,1034,Approved,Approved
+273,927,1035,Approved,Approved
+274,930,1037,Approved,Approved
+275,937,1045,Preparing,
+276,938,1046,Approved,Approved
+277,947,1058,Preparing,
+278,950,1060,Pending Decision,
+279,958,1068,Pending Decision,
+280,965,1076,Refused,Refused
+281,967,1078,Preparing,
+282,971,1081,Approved,Approved
+283,974,1085,Preparing,
+284,980,1091,Preparing,
+285,983,1094,Preparing,
+286,987,1099,Preparing,
+287,995,1108,Preparing,
+288,996,1111,Refused,Refused
+289,998,1114,Preparing,

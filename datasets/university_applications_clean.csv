@@ -1,0 +1,1119 @@
+app_id,sj_id,university_name,course_name,application_status,application_outcome
+1,1,Dublin City University,MSc in Cybersecurity,Offer Issued,Offer
+2,4,Dublin City University,MSc in Financial Technology,Offer Issued,Offer
+3,6,Maynooth University,MSc in Data Analytics,Offer Issued,Offer
+4,7,Technological University Dublin,BSc in Accounting and Finance,Documents Pending,
+5,8,Griffith College,BA in Digital Media,Documents Pending,
+6,9,University College Cork,BA in Marketing,Offer Issued,Offer
+7,10,University of Galway,BSc in Cybersecurity,Offer Issued,Offer
+8,12,Trinity College Dublin,MSc in Cloud Computing,Offer Issued,Offer
+9,12,Trinity College Dublin,MSc in Software Engineering,Rejected,Rejected
+10,14,University of Galway,BSc in Information Technology,Offer Issued,Offer
+11,14,University of Galway,MSc in Cybersecurity,Offer Issued,Offer
+12,15,University of Galway,BA in Marketing,Offer Issued,Offer
+13,15,Griffith College,MSc in Digital Transformation,Submitted,
+14,17,University College Dublin,BSc in Computer Science,Offer Issued,Offer
+15,17,University College Cork,MSc in Cloud Computing,Under Review,
+16,18,Griffith College,BA in Economics,Under Review,
+17,18,Maynooth University,MSc in Digital Transformation,Under Review,
+18,20,Technological University Dublin,MA in International Relations,Offer Issued,Offer
+19,23,University College Dublin,BA in Psychology,Offer Issued,Offer
+20,23,University of Limerick,BSc in Nursing,Offer Issued,Offer
+21,24,Griffith College,MSc in Business Analytics,Offer Issued,Offer
+22,25,National College of Ireland,MSc in Digital Transformation,Offer Issued,Offer
+23,26,Trinity College Dublin,MSc in Cloud Computing,Offer Issued,Offer
+24,26,University College Cork,MSc in Business Analytics,Offer Issued,Offer
+25,29,Dublin City University,BA in Economics,Rejected,Rejected
+26,29,Technological University Dublin,BA in Digital Media,Offer Issued,Offer
+27,31,University College Dublin,MSc in Cybersecurity,Rejected,Rejected
+28,31,Dublin Business School,MSc in Business Analytics,Offer Issued,Offer
+29,32,Dublin City University,MSc in Finance,Submitted,
+30,32,Griffith College,BEng in Electrical Engineering,Submitted,
+31,33,University College Cork,MSc in Computer Science,Documents Pending,
+32,34,Technological University Dublin,MSc in Digital Transformation,Offer Issued,Offer
+33,34,University College Cork,BSc in Data Science,Submitted,
+34,35,University College Cork,BSc in Accounting and Finance,Offer Issued,Offer
+35,36,University College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+36,36,University College Cork,MBA in International Business,Offer Issued,Offer
+37,37,University College Cork,BSc in Artificial Intelligence,Under Review,
+38,37,University of Galway,BSc in Accounting and Finance,Offer Issued,Offer
+39,39,University of Galway,BSc in Data Science,Documents Pending,
+40,39,University College Dublin,MBA in Business Administration,Offer Issued,Offer
+41,40,University of Limerick,BSc in Software Engineering,Rejected,Rejected
+42,41,Maynooth University,MSc in Cloud Computing,Offer Issued,Offer
+43,42,Technological University Dublin,MBA in Business Administration,Offer Issued,Offer
+44,43,University of Limerick,MA in International Relations,Offer Issued,Offer
+45,44,Trinity College Dublin,MBA in International Business,Submitted,
+46,44,National College of Ireland,BSc in Information Technology,Under Review,
+47,45,National College of Ireland,MSc in Business Analytics,Documents Pending,
+48,47,University College Cork,MA in Digital Marketing,Offer Issued,Offer
+49,49,Maynooth University,BEng in Mechanical Engineering,Documents Pending,
+50,50,University of Limerick,BSc in Cybersecurity,Offer Issued,Offer
+51,50,National College of Ireland,MSc in Business Analytics,Offer Issued,Offer
+52,51,Dublin City University,MSc in Data Analytics,Documents Pending,
+53,51,Technological University Dublin,MSc in Data Analytics,Rejected,Rejected
+54,53,National College of Ireland,MA in Human Resource Management,Offer Issued,Offer
+55,54,University College Cork,MSc in Finance,Documents Pending,
+56,54,University of Galway,MSc in Data Analytics,Under Review,
+57,55,University College Dublin,MSc in Artificial Intelligence,Offer Issued,Offer
+58,56,Dublin City University,BSc in Accounting and Finance,Documents Pending,
+59,58,Maynooth University,MSc in Business Analytics,Offer Issued,Offer
+60,58,Dublin City University,BA in Psychology,Submitted,
+61,59,University College Dublin,MA in International Relations,Documents Pending,
+62,60,Dublin Business School,MSc in Cloud Computing,Offer Issued,Offer
+63,61,Trinity College Dublin,BEng in Electrical Engineering,Offer Issued,Offer
+64,62,Technological University Dublin,BSc in Artificial Intelligence,Documents Pending,
+65,62,Maynooth University,BSc in Accounting and Finance,Offer Issued,Offer
+66,63,Dublin Business School,MBA in International Business,Offer Issued,Offer
+67,65,Maynooth University,BSc in Artificial Intelligence,Offer Issued,Offer
+68,67,Maynooth University,MSc in Project Management,Documents Pending,
+69,68,Dublin Business School,BA in Business Management,Offer Issued,Offer
+70,68,Technological University Dublin,MSc in Business Analytics,Offer Issued,Offer
+71,69,Dublin Business School,BBA in Business Administration,Documents Pending,
+72,71,Trinity College Dublin,MA in Human Resource Management,Documents Pending,
+73,72,Griffith College,MBA in Business Administration,Submitted,
+74,72,University of Limerick,MSc in Project Management,Under Review,
+75,72,University of Limerick,BBA in Business Administration,Rejected,Rejected
+76,74,University College Cork,BSc in Computer Science,Submitted,
+77,74,Dublin City University,BSc in Nursing,Under Review,
+78,77,University of Limerick,MSc in Artificial Intelligence,Offer Issued,Offer
+79,77,National College of Ireland,BBA in Business Administration,Under Review,
+80,77,Dublin Business School,MBA in Business Administration,Offer Issued,Offer
+81,78,Dublin City University,BA in Marketing,Under Review,
+82,78,Griffith College,MSc in Artificial Intelligence,Offer Issued,Offer
+83,79,University College Cork,MBA in Business Administration,Offer Issued,Offer
+84,80,University College Dublin,MA in International Relations,Rejected,Rejected
+85,81,University of Galway,MA in International Relations,Offer Issued,Offer
+86,81,Dublin City University,MSc in Cybersecurity,Submitted,
+87,81,University of Limerick,BA in International Business,Offer Issued,Offer
+88,82,Trinity College Dublin,BSc in Software Engineering,Offer Issued,Offer
+89,84,University of Galway,BSc in Data Science,Offer Issued,Offer
+90,84,Technological University Dublin,MSc in Business Analytics,Offer Issued,Offer
+91,85,National College of Ireland,BA in Psychology,Documents Pending,
+92,85,University College Cork,BSc in Data Science,Submitted,
+93,87,Maynooth University,MSc in Business Analytics,Offer Issued,Offer
+94,87,University College Cork,MSc in Cloud Computing,Offer Issued,Offer
+95,88,Griffith College,LLB in Law,Offer Issued,Offer
+96,89,Griffith College,BSc in Nursing,Offer Issued,Offer
+97,89,Maynooth University,BA in International Business,Submitted,
+98,90,Technological University Dublin,BA in Psychology,Documents Pending,
+99,90,Dublin City University,MBA in Business Administration,Offer Issued,Offer
+100,91,University College Dublin,BA in Digital Media,Offer Issued,Offer
+101,94,University College Dublin,MA in International Relations,Under Review,
+102,95,Maynooth University,BSc in Business Information Systems,Offer Issued,Offer
+103,96,University College Cork,BA in Digital Media,Offer Issued,Offer
+104,97,Griffith College,BSc in Artificial Intelligence,Offer Issued,Offer
+105,99,Griffith College,BSc in Computer Science,Offer Issued,Offer
+106,100,Maynooth University,MSc in Cloud Computing,Offer Issued,Offer
+107,100,Trinity College Dublin,MSc in Software Engineering,Submitted,
+108,102,University College Dublin,BA in International Business,Rejected,Rejected
+109,105,Dublin Business School,BBA in Business Administration,Offer Issued,Offer
+110,105,University College Dublin,BBA in Business Administration,Rejected,Rejected
+111,105,Dublin City University,BEng in Electrical Engineering,Offer Issued,Offer
+112,106,University College Cork,BA in Psychology,Offer Issued,Offer
+113,107,University of Galway,MSc in Data Analytics,Rejected,Rejected
+114,109,University College Dublin,MBA in International Business,Documents Pending,
+115,109,University of Galway,MSc in Software Engineering,Offer Issued,Offer
+116,109,University of Galway,BA in Digital Media,Offer Issued,Offer
+117,110,National College of Ireland,MA in Digital Marketing,Offer Issued,Offer
+118,110,University College Dublin,BSc in Business Information Systems,Offer Issued,Offer
+119,111,University of Limerick,BSc in Business Information Systems,Offer Issued,Offer
+120,113,University College Dublin,MBA in International Business,Documents Pending,
+121,116,Trinity College Dublin,MSc in Financial Technology,Offer Issued,Offer
+122,117,National College of Ireland,LLB in Law,Offer Issued,Offer
+123,117,University College Cork,BSc in Nursing,Offer Issued,Offer
+124,117,National College of Ireland,BA in Economics,Offer Issued,Offer
+125,118,University College Cork,MBA in International Business,Rejected,Rejected
+126,119,University of Galway,MBA in Business Administration,Offer Issued,Offer
+127,120,Trinity College Dublin,BA in Psychology,Offer Issued,Offer
+128,121,Maynooth University,MSc in Business Analytics,Offer Issued,Offer
+129,122,Trinity College Dublin,BA in Marketing,Offer Issued,Offer
+130,124,University College Cork,BA in International Business,Under Review,
+131,124,Dublin Business School,MSc in Business Analytics,Submitted,
+132,125,University College Cork,BA in Psychology,Offer Issued,Offer
+133,126,Trinity College Dublin,BSc in Software Engineering,Rejected,Rejected
+134,126,Griffith College,LLB in Law,Rejected,Rejected
+135,127,University College Cork,BEng in Mechanical Engineering,Offer Issued,Offer
+136,128,University of Galway,MSc in Computer Science,Documents Pending,
+137,128,University College Cork,BSc in Artificial Intelligence,Under Review,
+138,129,Trinity College Dublin,MBA in Business Administration,Under Review,
+139,129,Dublin City University,BA in International Business,Offer Issued,Offer
+140,130,Technological University Dublin,BA in Business Management,Offer Issued,Offer
+141,130,University College Dublin,MA in International Relations,Under Review,
+142,132,University College Cork,MSc in Financial Technology,Documents Pending,
+143,132,University of Galway,MA in International Relations,Submitted,
+144,132,Maynooth University,BSc in Business Information Systems,Rejected,Rejected
+145,133,Trinity College Dublin,BSc in Data Science,Documents Pending,
+146,134,National College of Ireland,MBA in Business Administration,Offer Issued,Offer
+147,134,University of Galway,BA in International Business,Under Review,
+148,135,Technological University Dublin,BBA in Business Administration,Documents Pending,
+149,136,Griffith College,BSc in Computer Science,Offer Issued,Offer
+150,136,University College Cork,BEng in Mechanical Engineering,Offer Issued,Offer
+151,137,Dublin City University,BSc in Nursing,Offer Issued,Offer
+152,139,Maynooth University,MA in Human Resource Management,Offer Issued,Offer
+153,139,Maynooth University,MSc in Digital Transformation,Rejected,Rejected
+154,139,National College of Ireland,BSc in Software Engineering,Offer Issued,Offer
+155,140,University College Dublin,BA in Digital Media,Offer Issued,Offer
+156,142,National College of Ireland,BBA in Business Administration,Documents Pending,
+157,143,University College Dublin,BEng in Mechanical Engineering,Offer Issued,Offer
+158,143,Maynooth University,MSc in Data Analytics,Submitted,
+159,143,Maynooth University,MSc in Cybersecurity,Submitted,
+160,144,Trinity College Dublin,BSc in Software Engineering,Offer Issued,Offer
+161,146,Maynooth University,BEng in Civil Engineering,Documents Pending,
+162,146,Technological University Dublin,MSc in Data Analytics,Offer Issued,Offer
+163,146,Maynooth University,MSc in Financial Technology,Submitted,
+164,147,University of Limerick,BA in Psychology,Offer Issued,Offer
+165,147,Trinity College Dublin,MSc in Business Analytics,Rejected,Rejected
+166,148,University College Cork,BA in Digital Media,Offer Issued,Offer
+167,148,Griffith College,BSc in Artificial Intelligence,Under Review,
+168,149,University College Dublin,MSc in Data Analytics,Offer Issued,Offer
+169,151,Maynooth University,MSc in Software Engineering,Documents Pending,
+170,153,University of Limerick,MSc in Data Analytics,Documents Pending,
+171,153,University College Cork,BSc in Cybersecurity,Under Review,
+172,154,Dublin City University,BA in Psychology,Under Review,
+173,155,University College Dublin,BA in International Business,Rejected,Rejected
+174,158,University College Cork,MBA in Business Administration,Offer Issued,Offer
+175,158,Griffith College,MSc in Artificial Intelligence,Under Review,
+176,159,University College Cork,MBA in Business Administration,Offer Issued,Offer
+177,159,Maynooth University,BSc in Accounting and Finance,Under Review,
+178,159,University College Dublin,BA in Business Management,Rejected,Rejected
+179,160,Maynooth University,MA in Human Resource Management,Submitted,
+180,161,Trinity College Dublin,MA in International Relations,Offer Issued,Offer
+181,161,University of Galway,MBA in Business Administration,Rejected,Rejected
+182,162,University College Cork,BSc in Accounting and Finance,Offer Issued,Offer
+183,164,Technological University Dublin,BSc in Artificial Intelligence,Offer Issued,Offer
+184,164,Griffith College,BSc in Computer Science,Offer Issued,Offer
+185,165,University College Cork,BBA in Business Administration,Offer Issued,Offer
+186,166,Griffith College,BSc in Artificial Intelligence,Offer Issued,Offer
+187,167,Dublin City University,MA in Human Resource Management,Rejected,Rejected
+188,167,Maynooth University,BSc in Data Science,Rejected,Rejected
+189,169,Griffith College,MSc in Computer Science,Offer Issued,Offer
+190,169,Griffith College,MSc in Finance,Offer Issued,Offer
+191,169,Maynooth University,MSc in Business Analytics,Offer Issued,Offer
+192,170,University of Limerick,MA in International Relations,Offer Issued,Offer
+193,171,Griffith College,BA in Business Management,Documents Pending,
+194,172,University of Galway,LLB in Law,Offer Issued,Offer
+195,173,University of Galway,MA in Human Resource Management,Rejected,Rejected
+196,174,Dublin City University,BA in Economics,Under Review,
+197,174,University of Galway,BSc in Information Technology,Submitted,
+198,175,University of Limerick,BBA in Business Administration,Offer Issued,Offer
+199,176,Griffith College,MSc in Finance,Under Review,
+200,176,Trinity College Dublin,BSc in Business Information Systems,Offer Issued,Offer
+201,177,Dublin Business School,BSc in Business Information Systems,Documents Pending,
+202,178,Dublin Business School,BSc in Artificial Intelligence,Offer Issued,Offer
+203,178,University College Dublin,BA in Business Management,Submitted,
+204,179,National College of Ireland,MSc in Artificial Intelligence,Documents Pending,
+205,179,Maynooth University,MSc in Finance,Offer Issued,Offer
+206,182,Dublin City University,MSc in Business Analytics,Documents Pending,
+207,184,Maynooth University,BEng in Civil Engineering,Under Review,
+208,185,Trinity College Dublin,MSc in Software Engineering,Rejected,Rejected
+209,186,National College of Ireland,BA in International Business,Offer Issued,Offer
+210,187,University College Dublin,BA in Digital Media,Rejected,Rejected
+211,188,Technological University Dublin,BEng in Civil Engineering,Submitted,
+212,188,Dublin Business School,MSc in Digital Transformation,Rejected,Rejected
+213,189,Maynooth University,MA in Human Resource Management,Offer Issued,Offer
+214,190,National College of Ireland,BSc in Accounting and Finance,Offer Issued,Offer
+215,190,Technological University Dublin,BA in Psychology,Offer Issued,Offer
+216,190,University of Galway,BSc in Data Science,Submitted,
+217,191,Technological University Dublin,BA in International Business,Offer Issued,Offer
+218,191,University College Cork,MBA in Business Administration,Offer Issued,Offer
+219,192,National College of Ireland,MSc in Project Management,Offer Issued,Offer
+220,194,University College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+221,197,University of Limerick,BSc in Information Technology,Offer Issued,Offer
+222,198,Dublin Business School,MBA in International Business,Offer Issued,Offer
+223,198,Trinity College Dublin,BBA in Business Administration,Submitted,
+224,198,University College Cork,BA in Digital Media,Offer Issued,Offer
+225,199,Maynooth University,MSc in Finance,Offer Issued,Offer
+226,199,Griffith College,MSc in Computer Science,Offer Issued,Offer
+227,199,National College of Ireland,MSc in Business Analytics,Rejected,Rejected
+228,201,National College of Ireland,BA in Psychology,Rejected,Rejected
+229,202,University College Cork,MSc in Cloud Computing,Offer Issued,Offer
+230,202,Dublin Business School,BSc in Information Technology,Rejected,Rejected
+231,203,Trinity College Dublin,BSc in Cybersecurity,Submitted,
+232,204,University of Limerick,BA in Psychology,Offer Issued,Offer
+233,204,University College Cork,MSc in Digital Transformation,Under Review,
+234,205,Dublin City University,BA in Digital Media,Rejected,Rejected
+235,206,Maynooth University,MSc in Business Analytics,Rejected,Rejected
+236,209,Dublin Business School,MSc in Finance,Offer Issued,Offer
+237,209,University College Cork,BEng in Electrical Engineering,Offer Issued,Offer
+238,211,Dublin Business School,MA in Digital Marketing,Documents Pending,
+239,211,University of Galway,BA in Marketing,Offer Issued,Offer
+240,212,Technological University Dublin,BSc in Cybersecurity,Offer Issued,Offer
+241,213,University of Limerick,BEng in Electrical Engineering,Documents Pending,
+242,214,Dublin City University,BEng in Civil Engineering,Offer Issued,Offer
+243,215,Dublin City University,MA in Human Resource Management,Offer Issued,Offer
+244,215,University College Cork,MBA in Business Administration,Offer Issued,Offer
+245,216,University of Galway,MSc in Computer Science,Offer Issued,Offer
+246,216,University of Limerick,BA in Psychology,Under Review,
+247,217,Dublin City University,BSc in Nursing,Offer Issued,Offer
+248,218,Griffith College,BSc in Information Technology,Offer Issued,Offer
+249,219,University of Galway,BA in Marketing,Offer Issued,Offer
+250,219,Technological University Dublin,MA in Digital Marketing,Offer Issued,Offer
+251,222,National College of Ireland,MA in International Relations,Offer Issued,Offer
+252,222,University of Limerick,BEng in Mechanical Engineering,Submitted,
+253,223,Trinity College Dublin,MSc in Cybersecurity,Documents Pending,
+254,225,University College Cork,MA in International Relations,Offer Issued,Offer
+255,225,Technological University Dublin,BA in Marketing,Submitted,
+256,227,University College Dublin,BA in Digital Media,Offer Issued,Offer
+257,227,Dublin City University,BSc in Nursing,Under Review,
+258,228,University College Cork,MSc in Business Analytics,Documents Pending,
+259,230,University College Cork,LLB in Law,Rejected,Rejected
+260,230,University of Galway,MA in Digital Marketing,Under Review,
+261,230,University College Cork,MBA in International Business,Offer Issued,Offer
+262,231,University College Dublin,MA in International Relations,Documents Pending,
+263,234,University of Galway,MSc in Business Analytics,Offer Issued,Offer
+264,235,Griffith College,BSc in Nursing,Rejected,Rejected
+265,237,Technological University Dublin,BA in Economics,Documents Pending,
+266,238,Griffith College,MSc in Digital Transformation,Documents Pending,
+267,239,Trinity College Dublin,MSc in Project Management,Rejected,Rejected
+268,241,Technological University Dublin,BSc in Nursing,Submitted,
+269,242,Maynooth University,MSc in Financial Technology,Offer Issued,Offer
+270,242,Technological University Dublin,MBA in Business Administration,Offer Issued,Offer
+271,243,Dublin Business School,MSc in Financial Technology,Offer Issued,Offer
+272,244,University of Limerick,MSc in Data Analytics,Documents Pending,
+273,246,University of Limerick,MSc in Digital Transformation,Offer Issued,Offer
+274,247,National College of Ireland,MSc in Data Analytics,Documents Pending,
+275,247,Maynooth University,BSc in Software Engineering,Offer Issued,Offer
+276,248,Maynooth University,MSc in Data Analytics,Offer Issued,Offer
+277,250,Trinity College Dublin,MSc in Project Management,Under Review,
+278,251,University College Dublin,BA in Digital Media,Offer Issued,Offer
+279,252,National College of Ireland,BSc in Artificial Intelligence,Rejected,Rejected
+280,252,University of Limerick,MSc in Finance,Under Review,
+281,253,Technological University Dublin,MSc in Computer Science,Offer Issued,Offer
+282,254,University of Galway,BEng in Electrical Engineering,Offer Issued,Offer
+283,256,University College Dublin,BA in Psychology,Offer Issued,Offer
+284,258,University College Cork,BSc in Data Science,Offer Issued,Offer
+285,259,University of Galway,BSc in Computer Science,Offer Issued,Offer
+286,259,University of Galway,BSc in Artificial Intelligence,Under Review,
+287,261,Technological University Dublin,MBA in Business Administration,Offer Issued,Offer
+288,262,University of Galway,MSc in Finance,Under Review,
+289,262,University of Limerick,BEng in Civil Engineering,Submitted,
+290,262,National College of Ireland,MSc in Business Analytics,Rejected,Rejected
+291,264,Technological University Dublin,BA in International Business,Rejected,Rejected
+292,264,University College Dublin,BSc in Information Technology,Rejected,Rejected
+293,264,Dublin City University,MA in International Relations,Under Review,
+294,266,University of Limerick,MA in Human Resource Management,Documents Pending,
+295,266,Technological University Dublin,BBA in Business Administration,Rejected,Rejected
+296,267,Dublin City University,BA in Psychology,Offer Issued,Offer
+297,267,University of Limerick,BA in Economics,Offer Issued,Offer
+298,268,University of Galway,BSc in Information Technology,Offer Issued,Offer
+299,268,Trinity College Dublin,MSc in Financial Technology,Offer Issued,Offer
+300,270,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+301,271,National College of Ireland,BSc in Nursing,Offer Issued,Offer
+302,272,Trinity College Dublin,BSc in Business Information Systems,Offer Issued,Offer
+303,272,University of Galway,MSc in Cloud Computing,Submitted,
+304,274,National College of Ireland,BSc in Business Information Systems,Rejected,Rejected
+305,275,National College of Ireland,BEng in Electrical Engineering,Under Review,
+306,276,Maynooth University,MSc in Cybersecurity,Documents Pending,
+307,277,Technological University Dublin,BEng in Mechanical Engineering,Under Review,
+308,278,Trinity College Dublin,MSc in Cloud Computing,Documents Pending,
+309,279,University of Galway,MBA in International Business,Under Review,
+310,280,Dublin Business School,BA in Economics,Documents Pending,
+311,281,Dublin City University,MSc in Financial Technology,Offer Issued,Offer
+312,282,National College of Ireland,BEng in Electrical Engineering,Rejected,Rejected
+313,283,University College Dublin,MA in International Relations,Offer Issued,Offer
+314,284,University College Dublin,BEng in Electrical Engineering,Offer Issued,Offer
+315,284,Dublin Business School,MSc in Finance,Under Review,
+316,286,Trinity College Dublin,BBA in Business Administration,Offer Issued,Offer
+317,287,Dublin City University,BSc in Cybersecurity,Documents Pending,
+318,287,National College of Ireland,MSc in Software Engineering,Offer Issued,Offer
+319,287,Griffith College,MBA in International Business,Rejected,Rejected
+320,288,Dublin Business School,MSc in Cloud Computing,Under Review,
+321,290,Dublin Business School,MSc in Artificial Intelligence,Offer Issued,Offer
+322,291,Dublin Business School,MA in Human Resource Management,Offer Issued,Offer
+323,291,University College Dublin,BSc in Business Information Systems,Under Review,
+324,293,University of Limerick,BA in Marketing,Submitted,
+325,293,University of Galway,MSc in Software Engineering,Rejected,Rejected
+326,294,University of Limerick,BEng in Electrical Engineering,Offer Issued,Offer
+327,295,Dublin Business School,BSc in Artificial Intelligence,Offer Issued,Offer
+328,295,Technological University Dublin,BA in Marketing,Submitted,
+329,296,Dublin Business School,BSc in Artificial Intelligence,Offer Issued,Offer
+330,296,Technological University Dublin,MSc in Artificial Intelligence,Under Review,
+331,299,University College Dublin,BA in Digital Media,Documents Pending,
+332,301,University of Galway,BSc in Software Engineering,Offer Issued,Offer
+333,301,Dublin City University,MSc in Financial Technology,Offer Issued,Offer
+334,303,University College Dublin,BSc in Computer Science,Offer Issued,Offer
+335,304,Maynooth University,BA in International Business,Offer Issued,Offer
+336,304,Maynooth University,LLB in Law,Rejected,Rejected
+337,305,National College of Ireland,BSc in Business Information Systems,Offer Issued,Offer
+338,310,University of Galway,BSc in Business Information Systems,Under Review,
+339,310,University of Limerick,BSc in Data Science,Submitted,
+340,311,University of Galway,MA in Human Resource Management,Documents Pending,
+341,311,Dublin City University,BEng in Civil Engineering,Offer Issued,Offer
+342,311,Technological University Dublin,BSc in Data Science,Submitted,
+343,312,University College Dublin,MSc in Artificial Intelligence,Documents Pending,
+344,312,University College Cork,BA in Digital Media,Rejected,Rejected
+345,312,Dublin City University,BA in Economics,Offer Issued,Offer
+346,313,National College of Ireland,MBA in International Business,Rejected,Rejected
+347,313,University College Cork,MA in Digital Marketing,Offer Issued,Offer
+348,315,Dublin City University,BA in Marketing,Offer Issued,Offer
+349,315,Maynooth University,BSc in Cybersecurity,Rejected,Rejected
+350,317,University College Cork,MBA in International Business,Offer Issued,Offer
+351,319,Maynooth University,BSc in Data Science,Documents Pending,
+352,319,University of Galway,LLB in Law,Rejected,Rejected
+353,320,University College Cork,MSc in Data Analytics,Offer Issued,Offer
+354,321,Technological University Dublin,BA in Digital Media,Documents Pending,
+355,321,Trinity College Dublin,MSc in Artificial Intelligence,Submitted,
+356,323,University of Limerick,MA in Human Resource Management,Offer Issued,Offer
+357,323,Dublin Business School,BSc in Information Technology,Submitted,
+358,324,University of Limerick,MSc in Digital Transformation,Submitted,
+359,324,Maynooth University,BSc in Business Information Systems,Offer Issued,Offer
+360,326,Trinity College Dublin,MSc in Finance,Offer Issued,Offer
+361,327,University College Dublin,MA in Digital Marketing,Documents Pending,
+362,327,Trinity College Dublin,BEng in Mechanical Engineering,Rejected,Rejected
+363,328,Dublin Business School,MA in Digital Marketing,Offer Issued,Offer
+364,329,Dublin City University,BEng in Civil Engineering,Offer Issued,Offer
+365,329,Trinity College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+366,330,University College Dublin,BEng in Civil Engineering,Under Review,
+367,330,University of Limerick,BSc in Business Information Systems,Submitted,
+368,330,University of Limerick,MSc in Business Analytics,Offer Issued,Offer
+369,332,University of Limerick,BSc in Nursing,Submitted,
+370,333,University of Galway,MA in International Relations,Offer Issued,Offer
+371,333,University of Galway,BA in Marketing,Offer Issued,Offer
+372,334,Trinity College Dublin,MA in International Relations,Offer Issued,Offer
+373,334,University College Dublin,BEng in Civil Engineering,Offer Issued,Offer
+374,335,National College of Ireland,BA in Business Management,Offer Issued,Offer
+375,335,Maynooth University,BSc in Cybersecurity,Offer Issued,Offer
+376,337,University College Dublin,BSc in Information Technology,Rejected,Rejected
+377,337,Dublin City University,MSc in Computer Science,Under Review,
+378,338,Maynooth University,BA in International Business,Offer Issued,Offer
+379,338,Maynooth University,BSc in Information Technology,Offer Issued,Offer
+380,339,University College Cork,BA in Digital Media,Offer Issued,Offer
+381,341,University College Dublin,BSc in Software Engineering,Offer Issued,Offer
+382,342,National College of Ireland,BEng in Civil Engineering,Offer Issued,Offer
+383,344,University of Galway,BSc in Accounting and Finance,Submitted,
+384,345,University College Cork,MSc in Data Analytics,Offer Issued,Offer
+385,345,Dublin Business School,BA in Economics,Offer Issued,Offer
+386,345,Maynooth University,BSc in Artificial Intelligence,Offer Issued,Offer
+387,346,Maynooth University,BSc in Software Engineering,Offer Issued,Offer
+388,347,University College Dublin,BA in Marketing,Offer Issued,Offer
+389,347,Dublin Business School,BSc in Information Technology,Submitted,
+390,348,Maynooth University,MSc in Financial Technology,Offer Issued,Offer
+391,348,University College Cork,BA in Psychology,Offer Issued,Offer
+392,348,Maynooth University,BSc in Business Information Systems,Under Review,
+393,350,University of Limerick,BA in Economics,Offer Issued,Offer
+394,351,University of Galway,BSc in Accounting and Finance,Offer Issued,Offer
+395,353,University College Cork,MSc in Software Engineering,Offer Issued,Offer
+396,353,University College Dublin,LLB in Law,Submitted,
+397,353,Maynooth University,BA in Psychology,Offer Issued,Offer
+398,355,University College Cork,BA in International Business,Offer Issued,Offer
+399,355,University College Dublin,BSc in Nursing,Offer Issued,Offer
+400,355,University of Galway,MSc in Cloud Computing,Submitted,
+401,356,Trinity College Dublin,BSc in Nursing,Offer Issued,Offer
+402,356,Maynooth University,MSc in Software Engineering,Rejected,Rejected
+403,357,University College Dublin,MSc in Artificial Intelligence,Offer Issued,Offer
+404,360,Griffith College,BSc in Business Information Systems,Offer Issued,Offer
+405,360,Griffith College,MBA in Business Administration,Offer Issued,Offer
+406,361,Trinity College Dublin,BA in Digital Media,Under Review,
+407,361,University of Limerick,BA in Digital Media,Submitted,
+408,364,University of Galway,MSc in Software Engineering,Rejected,Rejected
+409,366,Trinity College Dublin,MBA in Business Administration,Rejected,Rejected
+410,366,Dublin City University,BEng in Mechanical Engineering,Offer Issued,Offer
+411,369,University of Galway,BSc in Information Technology,Submitted,
+412,371,Technological University Dublin,MSc in Data Analytics,Offer Issued,Offer
+413,372,Maynooth University,MSc in Project Management,Under Review,
+414,373,University College Dublin,MBA in International Business,Offer Issued,Offer
+415,373,Dublin City University,BBA in Business Administration,Rejected,Rejected
+416,374,National College of Ireland,MSc in Digital Transformation,Offer Issued,Offer
+417,375,Dublin City University,BSc in Artificial Intelligence,Offer Issued,Offer
+418,375,Maynooth University,BA in Psychology,Submitted,
+419,375,Technological University Dublin,BA in Business Management,Rejected,Rejected
+420,376,University of Galway,BA in Business Management,Offer Issued,Offer
+421,380,Griffith College,MSc in Software Engineering,Offer Issued,Offer
+422,380,Dublin Business School,BSc in Nursing,Submitted,
+423,381,Griffith College,MA in Digital Marketing,Rejected,Rejected
+424,381,Dublin Business School,BSc in Artificial Intelligence,Submitted,
+425,381,Maynooth University,BEng in Electrical Engineering,Submitted,
+426,382,Griffith College,MSc in Cloud Computing,Offer Issued,Offer
+427,382,National College of Ireland,BA in Marketing,Offer Issued,Offer
+428,383,Dublin City University,BEng in Electrical Engineering,Rejected,Rejected
+429,383,University of Galway,MSc in Cloud Computing,Submitted,
+430,386,Maynooth University,BEng in Civil Engineering,Offer Issued,Offer
+431,388,Dublin City University,BSc in Nursing,Rejected,Rejected
+432,389,Dublin Business School,BA in Business Management,Offer Issued,Offer
+433,389,Trinity College Dublin,BA in International Business,Under Review,
+434,390,University of Galway,BSc in Information Technology,Offer Issued,Offer
+435,391,Dublin Business School,BSc in Data Science,Offer Issued,Offer
+436,391,National College of Ireland,MSc in Cloud Computing,Under Review,
+437,391,National College of Ireland,MSc in Artificial Intelligence,Offer Issued,Offer
+438,392,National College of Ireland,MA in Digital Marketing,Offer Issued,Offer
+439,394,Griffith College,MSc in Cloud Computing,Offer Issued,Offer
+440,395,National College of Ireland,MA in Digital Marketing,Offer Issued,Offer
+441,395,University of Galway,BSc in Nursing,Rejected,Rejected
+442,396,Maynooth University,MSc in Cloud Computing,Offer Issued,Offer
+443,397,University College Cork,LLB in Law,Documents Pending,
+444,397,Griffith College,BA in Digital Media,Rejected,Rejected
+445,398,University College Dublin,MBA in International Business,Offer Issued,Offer
+446,399,University College Dublin,BEng in Civil Engineering,Offer Issued,Offer
+447,399,National College of Ireland,MA in International Relations,Rejected,Rejected
+448,399,University of Galway,BA in Business Management,Submitted,
+449,400,Dublin Business School,MBA in International Business,Under Review,
+450,400,University College Dublin,BSc in Cybersecurity,Rejected,Rejected
+451,401,University of Galway,BA in International Business,Documents Pending,
+452,405,University of Limerick,MSc in Cloud Computing,Documents Pending,
+453,406,Griffith College,MSc in Software Engineering,Offer Issued,Offer
+454,407,Trinity College Dublin,BA in Marketing,Documents Pending,
+455,408,University of Galway,MBA in Business Administration,Rejected,Rejected
+456,408,University College Cork,BA in International Business,Offer Issued,Offer
+457,409,Trinity College Dublin,BBA in Business Administration,Offer Issued,Offer
+458,409,Technological University Dublin,BA in Psychology,Offer Issued,Offer
+459,410,National College of Ireland,BSc in Business Information Systems,Offer Issued,Offer
+460,411,University College Cork,BA in Digital Media,Offer Issued,Offer
+461,411,National College of Ireland,MSc in Digital Transformation,Submitted,
+462,412,Technological University Dublin,BSc in Artificial Intelligence,Offer Issued,Offer
+463,413,University of Limerick,BA in Marketing,Offer Issued,Offer
+464,413,Maynooth University,BSc in Accounting and Finance,Offer Issued,Offer
+465,414,Maynooth University,MSc in Software Engineering,Documents Pending,
+466,414,National College of Ireland,BA in Digital Media,Rejected,Rejected
+467,415,Dublin City University,BEng in Mechanical Engineering,Offer Issued,Offer
+468,417,Griffith College,BSc in Nursing,Offer Issued,Offer
+469,417,Technological University Dublin,MA in Digital Marketing,Submitted,
+470,419,Dublin City University,BA in Digital Media,Offer Issued,Offer
+471,419,Technological University Dublin,MSc in Project Management,Submitted,
+472,422,National College of Ireland,MBA in International Business,Submitted,
+473,422,National College of Ireland,MBA in Business Administration,Submitted,
+474,423,University of Galway,MSc in Financial Technology,Documents Pending,
+475,424,Griffith College,MSc in Digital Transformation,Documents Pending,
+476,425,Trinity College Dublin,LLB in Law,Offer Issued,Offer
+477,425,University of Galway,MSc in Computer Science,Offer Issued,Offer
+478,425,Maynooth University,BBA in Business Administration,Offer Issued,Offer
+479,426,University of Galway,MA in Digital Marketing,Offer Issued,Offer
+480,426,Technological University Dublin,BA in Psychology,Under Review,
+481,427,National College of Ireland,MSc in Artificial Intelligence,Under Review,
+482,427,University of Galway,BA in Business Management,Offer Issued,Offer
+483,428,Dublin Business School,BSc in Accounting and Finance,Documents Pending,
+484,428,Technological University Dublin,MA in Digital Marketing,Submitted,
+485,428,University of Galway,BSc in Data Science,Offer Issued,Offer
+486,430,University College Cork,MBA in International Business,Offer Issued,Offer
+487,430,University College Cork,BSc in Software Engineering,Under Review,
+488,432,Trinity College Dublin,BSc in Data Science,Offer Issued,Offer
+489,432,University of Galway,BSc in Nursing,Under Review,
+490,436,Maynooth University,MSc in Finance,Offer Issued,Offer
+491,436,University College Cork,BSc in Business Information Systems,Offer Issued,Offer
+492,436,National College of Ireland,MSc in Data Analytics,Submitted,
+493,437,Griffith College,BSc in Accounting and Finance,Offer Issued,Offer
+494,439,National College of Ireland,BA in Economics,Offer Issued,Offer
+495,440,Trinity College Dublin,MSc in Financial Technology,Offer Issued,Offer
+496,441,National College of Ireland,MSc in Data Analytics,Submitted,
+497,442,National College of Ireland,MSc in Business Analytics,Offer Issued,Offer
+498,444,Technological University Dublin,BSc in Nursing,Offer Issued,Offer
+499,445,Technological University Dublin,MSc in Finance,Offer Issued,Offer
+500,446,Maynooth University,MSc in Business Analytics,Submitted,
+501,446,Technological University Dublin,MSc in Computer Science,Offer Issued,Offer
+502,447,University College Cork,BSc in Nursing,Under Review,
+503,448,University of Limerick,BSc in Nursing,Offer Issued,Offer
+504,449,University College Dublin,BSc in Information Technology,Documents Pending,
+505,452,Griffith College,BSc in Nursing,Offer Issued,Offer
+506,452,Dublin Business School,BSc in Cybersecurity,Offer Issued,Offer
+507,453,National College of Ireland,MSc in Project Management,Offer Issued,Offer
+508,455,National College of Ireland,BA in Business Management,Offer Issued,Offer
+509,456,University College Dublin,BEng in Mechanical Engineering,Offer Issued,Offer
+510,457,Maynooth University,MA in Human Resource Management,Offer Issued,Offer
+511,458,Dublin City University,BSc in Computer Science,Offer Issued,Offer
+512,458,Griffith College,MSc in Financial Technology,Under Review,
+513,459,Trinity College Dublin,MA in Digital Marketing,Documents Pending,
+514,459,University of Galway,BA in Business Management,Offer Issued,Offer
+515,460,Trinity College Dublin,BSc in Data Science,Documents Pending,
+516,460,Dublin City University,MSc in Project Management,Offer Issued,Offer
+517,461,Griffith College,BA in Digital Media,Offer Issued,Offer
+518,461,Technological University Dublin,BSc in Nursing,Under Review,
+519,465,Griffith College,BSc in Cybersecurity,Offer Issued,Offer
+520,465,Dublin City University,MSc in Financial Technology,Under Review,
+521,466,University of Limerick,BSc in Software Engineering,Under Review,
+522,467,Trinity College Dublin,MSc in Data Analytics,Rejected,Rejected
+523,467,Dublin Business School,MSc in Digital Transformation,Offer Issued,Offer
+524,468,Technological University Dublin,BSc in Cybersecurity,Offer Issued,Offer
+525,470,Trinity College Dublin,MSc in Data Analytics,Rejected,Rejected
+526,470,University of Galway,BSc in Data Science,Under Review,
+527,471,Trinity College Dublin,BSc in Information Technology,Offer Issued,Offer
+528,471,University of Galway,MSc in Cybersecurity,Submitted,
+529,473,Griffith College,LLB in Law,Rejected,Rejected
+530,475,University College Cork,BEng in Mechanical Engineering,Rejected,Rejected
+531,477,National College of Ireland,BSc in Nursing,Rejected,Rejected
+532,477,University College Dublin,BEng in Mechanical Engineering,Under Review,
+533,478,Technological University Dublin,MSc in Cloud Computing,Rejected,Rejected
+534,478,Technological University Dublin,BSc in Computer Science,Under Review,
+535,482,University of Galway,BSc in Accounting and Finance,Offer Issued,Offer
+536,484,University College Dublin,BEng in Mechanical Engineering,Offer Issued,Offer
+537,487,University of Limerick,BSc in Information Technology,Offer Issued,Offer
+538,488,Dublin Business School,BSc in Data Science,Documents Pending,
+539,488,National College of Ireland,MSc in Business Analytics,Rejected,Rejected
+540,489,University College Cork,MSc in Computer Science,Documents Pending,
+541,491,Technological University Dublin,BSc in Information Technology,Offer Issued,Offer
+542,494,Trinity College Dublin,MSc in Digital Transformation,Offer Issued,Offer
+543,495,Maynooth University,MA in Digital Marketing,Offer Issued,Offer
+544,497,Dublin Business School,BSc in Information Technology,Rejected,Rejected
+545,497,Dublin City University,BEng in Civil Engineering,Submitted,
+546,498,National College of Ireland,BSc in Data Science,Documents Pending,
+547,498,National College of Ireland,BA in International Business,Offer Issued,Offer
+548,499,Technological University Dublin,MBA in International Business,Offer Issued,Offer
+549,502,Dublin City University,BSc in Cybersecurity,Offer Issued,Offer
+550,504,Dublin City University,MSc in Software Engineering,Documents Pending,
+551,504,Technological University Dublin,BA in Psychology,Rejected,Rejected
+552,506,University of Limerick,MSc in Business Analytics,Documents Pending,
+553,507,University of Galway,BBA in Business Administration,Documents Pending,
+554,509,University of Galway,MSc in Data Analytics,Offer Issued,Offer
+555,509,University of Galway,BEng in Civil Engineering,Rejected,Rejected
+556,509,Technological University Dublin,MSc in Cloud Computing,Offer Issued,Offer
+557,510,National College of Ireland,MSc in Software Engineering,Rejected,Rejected
+558,511,National College of Ireland,MA in Human Resource Management,Offer Issued,Offer
+559,511,Maynooth University,MSc in Cybersecurity,Offer Issued,Offer
+560,512,University of Limerick,MSc in Finance,Offer Issued,Offer
+561,512,Dublin City University,BA in Digital Media,Offer Issued,Offer
+562,513,Trinity College Dublin,BA in International Business,Submitted,
+563,513,Trinity College Dublin,BEng in Electrical Engineering,Under Review,
+564,514,Dublin City University,MSc in Project Management,Offer Issued,Offer
+565,515,Dublin City University,BSc in Artificial Intelligence,Offer Issued,Offer
+566,516,National College of Ireland,MBA in International Business,Documents Pending,
+567,517,Trinity College Dublin,BSc in Cybersecurity,Documents Pending,
+568,518,National College of Ireland,BSc in Computer Science,Documents Pending,
+569,518,Griffith College,BA in Business Management,Rejected,Rejected
+570,520,Technological University Dublin,BSc in Software Engineering,Rejected,Rejected
+571,520,University College Cork,BA in Psychology,Rejected,Rejected
+572,521,Griffith College,BSc in Information Technology,Offer Issued,Offer
+573,521,National College of Ireland,MSc in Finance,Rejected,Rejected
+574,522,Technological University Dublin,BA in Marketing,Documents Pending,
+575,523,Technological University Dublin,BSc in Nursing,Offer Issued,Offer
+576,524,Dublin City University,MSc in Project Management,Offer Issued,Offer
+577,526,National College of Ireland,MSc in Artificial Intelligence,Offer Issued,Offer
+578,527,University of Limerick,BA in International Business,Documents Pending,
+579,527,Dublin City University,BSc in Software Engineering,Submitted,
+580,528,Trinity College Dublin,MSc in Data Analytics,Offer Issued,Offer
+581,529,University of Galway,BA in Business Management,Submitted,
+582,531,National College of Ireland,MSc in Digital Transformation,Documents Pending,
+583,532,National College of Ireland,BEng in Electrical Engineering,Documents Pending,
+584,532,National College of Ireland,BA in Psychology,Rejected,Rejected
+585,532,Maynooth University,BA in Marketing,Submitted,
+586,533,Dublin Business School,MBA in Business Administration,Offer Issued,Offer
+587,535,University of Galway,BSc in Information Technology,Submitted,
+588,536,Technological University Dublin,MBA in International Business,Rejected,Rejected
+589,536,University College Cork,MSc in Cloud Computing,Offer Issued,Offer
+590,539,University College Dublin,MSc in Data Analytics,Offer Issued,Offer
+591,540,University of Galway,MSc in Financial Technology,Rejected,Rejected
+592,541,University of Limerick,MSc in Artificial Intelligence,Offer Issued,Offer
+593,542,Dublin Business School,MSc in Business Analytics,Offer Issued,Offer
+594,542,National College of Ireland,MSc in Business Analytics,Rejected,Rejected
+595,545,Trinity College Dublin,MSc in Cloud Computing,Offer Issued,Offer
+596,545,University of Limerick,MBA in Business Administration,Offer Issued,Offer
+597,547,Dublin Business School,MBA in Business Administration,Offer Issued,Offer
+598,547,Maynooth University,BSc in Software Engineering,Offer Issued,Offer
+599,548,Maynooth University,BEng in Electrical Engineering,Offer Issued,Offer
+600,550,University of Galway,BSc in Artificial Intelligence,Rejected,Rejected
+601,553,National College of Ireland,BA in Business Management,Rejected,Rejected
+602,554,Griffith College,BEng in Civil Engineering,Submitted,
+603,554,University of Limerick,MSc in Project Management,Under Review,
+604,555,University College Cork,MBA in International Business,Offer Issued,Offer
+605,555,Griffith College,MA in Human Resource Management,Offer Issued,Offer
+606,556,University of Limerick,BA in International Business,Offer Issued,Offer
+607,556,Griffith College,BSc in Business Information Systems,Under Review,
+608,557,University of Galway,BEng in Civil Engineering,Rejected,Rejected
+609,557,University of Galway,BSc in Cybersecurity,Offer Issued,Offer
+610,557,University of Limerick,MBA in International Business,Under Review,
+611,558,Dublin City University,BSc in Cybersecurity,Rejected,Rejected
+612,558,University of Galway,MBA in International Business,Offer Issued,Offer
+613,559,University of Galway,MA in Digital Marketing,Offer Issued,Offer
+614,560,Griffith College,BA in Business Management,Under Review,
+615,561,National College of Ireland,MSc in Data Analytics,Documents Pending,
+616,562,University of Limerick,MBA in International Business,Offer Issued,Offer
+617,563,University College Cork,MSc in Computer Science,Documents Pending,
+618,563,National College of Ireland,BA in Business Management,Offer Issued,Offer
+619,563,Dublin Business School,MSc in Project Management,Offer Issued,Offer
+620,564,Maynooth University,BEng in Civil Engineering,Offer Issued,Offer
+621,565,Maynooth University,MA in Digital Marketing,Offer Issued,Offer
+622,566,University College Cork,MSc in Cloud Computing,Offer Issued,Offer
+623,567,University College Cork,MSc in Data Analytics,Offer Issued,Offer
+624,568,Dublin Business School,BSc in Information Technology,Offer Issued,Offer
+625,568,University College Cork,MSc in Data Analytics,Offer Issued,Offer
+626,568,Dublin City University,MSc in Computer Science,Offer Issued,Offer
+627,570,Trinity College Dublin,BSc in Cybersecurity,Offer Issued,Offer
+628,572,Dublin Business School,BEng in Mechanical Engineering,Under Review,
+629,572,Maynooth University,BSc in Business Information Systems,Submitted,
+630,573,University College Dublin,BA in Digital Media,Offer Issued,Offer
+631,575,Dublin City University,BSc in Business Information Systems,Offer Issued,Offer
+632,575,Griffith College,MA in Digital Marketing,Offer Issued,Offer
+633,577,University College Dublin,MA in Digital Marketing,Offer Issued,Offer
+634,577,University of Galway,MSc in Finance,Offer Issued,Offer
+635,577,National College of Ireland,BA in Marketing,Rejected,Rejected
+636,578,Maynooth University,LLB in Law,Rejected,Rejected
+637,582,University College Dublin,BEng in Civil Engineering,Offer Issued,Offer
+638,582,Maynooth University,BA in Digital Media,Offer Issued,Offer
+639,583,Dublin Business School,MA in International Relations,Offer Issued,Offer
+640,583,National College of Ireland,BSc in Accounting and Finance,Offer Issued,Offer
+641,583,Maynooth University,BSc in Artificial Intelligence,Under Review,
+642,584,University College Dublin,MSc in Finance,Offer Issued,Offer
+643,584,Trinity College Dublin,MSc in Finance,Rejected,Rejected
+644,585,Maynooth University,BSc in Artificial Intelligence,Documents Pending,
+645,585,University of Galway,BSc in Cybersecurity,Submitted,
+646,586,University College Dublin,MSc in Data Analytics,Offer Issued,Offer
+647,586,Dublin City University,BA in Digital Media,Rejected,Rejected
+648,587,Trinity College Dublin,BSc in Software Engineering,Offer Issued,Offer
+649,587,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+650,588,Dublin Business School,MSc in Artificial Intelligence,Documents Pending,
+651,588,University of Galway,BEng in Electrical Engineering,Offer Issued,Offer
+652,589,National College of Ireland,BA in Marketing,Documents Pending,
+653,589,University College Dublin,BA in International Business,Rejected,Rejected
+654,589,Technological University Dublin,MSc in Business Analytics,Submitted,
+655,590,Trinity College Dublin,BSc in Nursing,Offer Issued,Offer
+656,590,Maynooth University,BSc in Business Information Systems,Under Review,
+657,591,Trinity College Dublin,BA in Marketing,Offer Issued,Offer
+658,591,Trinity College Dublin,MBA in International Business,Offer Issued,Offer
+659,593,Trinity College Dublin,MSc in Artificial Intelligence,Offer Issued,Offer
+660,594,Trinity College Dublin,BSc in Cybersecurity,Offer Issued,Offer
+661,595,Griffith College,MSc in Artificial Intelligence,Offer Issued,Offer
+662,595,Dublin Business School,MSc in Project Management,Under Review,
+663,596,University College Dublin,BSc in Data Science,Documents Pending,
+664,598,Technological University Dublin,BA in Marketing,Offer Issued,Offer
+665,598,Maynooth University,MSc in Software Engineering,Rejected,Rejected
+666,598,Griffith College,BSc in Data Science,Offer Issued,Offer
+667,600,Maynooth University,MSc in Software Engineering,Submitted,
+668,600,Trinity College Dublin,BSc in Cybersecurity,Offer Issued,Offer
+669,600,University College Cork,MSc in Cloud Computing,Submitted,
+670,602,University of Galway,BA in Marketing,Documents Pending,
+671,605,National College of Ireland,MA in International Relations,Documents Pending,
+672,605,University of Limerick,MA in Digital Marketing,Offer Issued,Offer
+673,606,University College Cork,BSc in Artificial Intelligence,Rejected,Rejected
+674,606,Trinity College Dublin,LLB in Law,Under Review,
+675,607,University of Galway,MSc in Cloud Computing,Documents Pending,
+676,607,Griffith College,BSc in Artificial Intelligence,Rejected,Rejected
+677,608,University of Limerick,MA in Human Resource Management,Offer Issued,Offer
+678,609,National College of Ireland,MSc in Cybersecurity,Offer Issued,Offer
+679,610,Griffith College,MSc in Financial Technology,Submitted,
+680,611,Dublin Business School,LLB in Law,Documents Pending,
+681,611,University of Galway,MSc in Financial Technology,Submitted,
+682,612,Trinity College Dublin,BSc in Artificial Intelligence,Documents Pending,
+683,612,National College of Ireland,MA in Human Resource Management,Offer Issued,Offer
+684,613,Maynooth University,BA in Marketing,Offer Issued,Offer
+685,613,National College of Ireland,LLB in Law,Offer Issued,Offer
+686,614,University College Dublin,BA in Economics,Rejected,Rejected
+687,614,Dublin City University,BSc in Cybersecurity,Under Review,
+688,615,Technological University Dublin,BSc in Artificial Intelligence,Documents Pending,
+689,616,National College of Ireland,BA in Marketing,Offer Issued,Offer
+690,620,University College Cork,BSc in Cybersecurity,Offer Issued,Offer
+691,620,Dublin City University,BEng in Civil Engineering,Rejected,Rejected
+692,621,Dublin Business School,MSc in Artificial Intelligence,Documents Pending,
+693,621,National College of Ireland,MSc in Project Management,Offer Issued,Offer
+694,623,Technological University Dublin,BSc in Information Technology,Offer Issued,Offer
+695,624,Dublin City University,BSc in Cybersecurity,Documents Pending,
+696,624,University of Galway,BSc in Computer Science,Submitted,
+697,625,Technological University Dublin,BSc in Cybersecurity,Rejected,Rejected
+698,626,University of Limerick,MSc in Digital Transformation,Offer Issued,Offer
+699,632,Maynooth University,BA in Psychology,Documents Pending,
+700,632,University of Galway,MSc in Cybersecurity,Offer Issued,Offer
+701,633,University of Limerick,MSc in Digital Transformation,Documents Pending,
+702,635,University College Cork,BA in International Business,Offer Issued,Offer
+703,635,University of Limerick,MBA in Business Administration,Offer Issued,Offer
+704,636,University College Cork,MSc in Business Analytics,Offer Issued,Offer
+705,636,University College Cork,BA in Business Management,Under Review,
+706,637,University of Limerick,BA in Business Management,Under Review,
+707,638,Trinity College Dublin,BEng in Mechanical Engineering,Offer Issued,Offer
+708,639,Maynooth University,MSc in Digital Transformation,Offer Issued,Offer
+709,640,University of Galway,MSc in Business Analytics,Offer Issued,Offer
+710,640,University of Limerick,BEng in Mechanical Engineering,Rejected,Rejected
+711,641,Griffith College,MA in Digital Marketing,Documents Pending,
+712,642,Technological University Dublin,MBA in Business Administration,Offer Issued,Offer
+713,643,National College of Ireland,MSc in Computer Science,Offer Issued,Offer
+714,643,University College Dublin,BSc in Software Engineering,Submitted,
+715,644,Griffith College,MSc in Finance,Offer Issued,Offer
+716,644,Griffith College,MSc in Cybersecurity,Offer Issued,Offer
+717,645,Griffith College,MSc in Cloud Computing,Offer Issued,Offer
+718,646,National College of Ireland,BSc in Nursing,Offer Issued,Offer
+719,647,Maynooth University,MA in International Relations,Rejected,Rejected
+720,648,Maynooth University,MSc in Finance,Documents Pending,
+721,648,Dublin City University,MBA in International Business,Submitted,
+722,649,National College of Ireland,MSc in Digital Transformation,Offer Issued,Offer
+723,649,Technological University Dublin,LLB in Law,Rejected,Rejected
+724,651,Dublin Business School,MSc in Financial Technology,Offer Issued,Offer
+725,651,University of Galway,BA in Digital Media,Under Review,
+726,653,Dublin City University,MSc in Business Analytics,Offer Issued,Offer
+727,653,Maynooth University,MSc in Data Analytics,Under Review,
+728,653,Trinity College Dublin,BBA in Business Administration,Offer Issued,Offer
+729,654,University of Galway,MBA in International Business,Documents Pending,
+730,655,University of Galway,BA in International Business,Offer Issued,Offer
+731,656,Technological University Dublin,BEng in Civil Engineering,Rejected,Rejected
+732,657,Trinity College Dublin,BSc in Data Science,Rejected,Rejected
+733,658,National College of Ireland,MSc in Project Management,Documents Pending,
+734,659,Griffith College,BSc in Information Technology,Offer Issued,Offer
+735,660,Dublin Business School,MBA in International Business,Offer Issued,Offer
+736,660,University College Cork,BSc in Information Technology,Rejected,Rejected
+737,661,Trinity College Dublin,MSc in Project Management,Offer Issued,Offer
+738,662,University College Dublin,BEng in Civil Engineering,Offer Issued,Offer
+739,662,National College of Ireland,LLB in Law,Under Review,
+740,662,Maynooth University,BSc in Data Science,Rejected,Rejected
+741,664,Trinity College Dublin,MSc in Cloud Computing,Offer Issued,Offer
+742,665,Griffith College,MA in International Relations,Offer Issued,Offer
+743,668,University of Limerick,MA in Digital Marketing,Offer Issued,Offer
+744,668,University of Galway,BSc in Data Science,Under Review,
+745,670,University College Cork,BSc in Nursing,Offer Issued,Offer
+746,671,University College Dublin,BSc in Nursing,Submitted,
+747,671,Griffith College,BSc in Data Science,Under Review,
+748,671,Dublin Business School,BSc in Data Science,Offer Issued,Offer
+749,672,Maynooth University,BBA in Business Administration,Offer Issued,Offer
+750,672,National College of Ireland,MA in Human Resource Management,Under Review,
+751,673,Griffith College,MSc in Business Analytics,Offer Issued,Offer
+752,673,University of Galway,MSc in Cloud Computing,Offer Issued,Offer
+753,674,Trinity College Dublin,BA in Economics,Offer Issued,Offer
+754,675,Dublin Business School,MSc in Cloud Computing,Offer Issued,Offer
+755,676,University College Cork,BA in Business Management,Offer Issued,Offer
+756,677,National College of Ireland,BEng in Electrical Engineering,Offer Issued,Offer
+757,677,Griffith College,BEng in Civil Engineering,Under Review,
+758,680,University College Cork,BA in Economics,Rejected,Rejected
+759,681,Technological University Dublin,MSc in Computer Science,Documents Pending,
+760,681,Dublin Business School,MSc in Business Analytics,Under Review,
+761,682,University College Cork,MSc in Cloud Computing,Documents Pending,
+762,682,Griffith College,MSc in Data Analytics,Offer Issued,Offer
+763,684,University College Cork,BA in International Business,Offer Issued,Offer
+764,685,Dublin Business School,MSc in Finance,Documents Pending,
+765,687,Maynooth University,BSc in Artificial Intelligence,Offer Issued,Offer
+766,687,National College of Ireland,MSc in Artificial Intelligence,Offer Issued,Offer
+767,687,Maynooth University,MSc in Artificial Intelligence,Offer Issued,Offer
+768,689,University of Galway,BSc in Software Engineering,Offer Issued,Offer
+769,689,Dublin City University,BSc in Software Engineering,Rejected,Rejected
+770,690,University College Dublin,MSc in Artificial Intelligence,Offer Issued,Offer
+771,690,Technological University Dublin,MA in Digital Marketing,Submitted,
+772,691,Dublin City University,MSc in Software Engineering,Offer Issued,Offer
+773,691,University of Galway,MSc in Financial Technology,Submitted,
+774,693,University of Limerick,MSc in Business Analytics,Submitted,
+775,693,National College of Ireland,BA in International Business,Rejected,Rejected
+776,694,Maynooth University,MSc in Digital Transformation,Documents Pending,
+777,695,University College Cork,BA in Economics,Offer Issued,Offer
+778,696,University College Cork,BSc in Accounting and Finance,Offer Issued,Offer
+779,697,University of Limerick,MBA in International Business,Offer Issued,Offer
+780,697,Maynooth University,MSc in Cybersecurity,Offer Issued,Offer
+781,697,National College of Ireland,BSc in Computer Science,Submitted,
+782,701,National College of Ireland,MSc in Artificial Intelligence,Offer Issued,Offer
+783,703,University of Limerick,MBA in International Business,Documents Pending,
+784,704,University College Dublin,BBA in Business Administration,Offer Issued,Offer
+785,705,Technological University Dublin,MSc in Artificial Intelligence,Documents Pending,
+786,707,Technological University Dublin,BSc in Software Engineering,Offer Issued,Offer
+787,708,University College Dublin,BA in Economics,Documents Pending,
+788,709,University College Cork,LLB in Law,Offer Issued,Offer
+789,711,Technological University Dublin,MSc in Finance,Under Review,
+790,714,Maynooth University,MSc in Digital Transformation,Rejected,Rejected
+791,715,University of Limerick,MBA in Business Administration,Offer Issued,Offer
+792,715,University of Galway,BSc in Information Technology,Under Review,
+793,717,Griffith College,MSc in Software Engineering,Offer Issued,Offer
+794,718,Dublin City University,BEng in Electrical Engineering,Rejected,Rejected
+795,720,Trinity College Dublin,MSc in Cloud Computing,Offer Issued,Offer
+796,722,Technological University Dublin,BSc in Accounting and Finance,Offer Issued,Offer
+797,723,University of Galway,BA in Digital Media,Offer Issued,Offer
+798,724,National College of Ireland,MSc in Business Analytics,Documents Pending,
+799,724,Maynooth University,BSc in Data Science,Under Review,
+800,725,Dublin Business School,BSc in Information Technology,Offer Issued,Offer
+801,726,University College Cork,MSc in Data Analytics,Documents Pending,
+802,727,Griffith College,MSc in Artificial Intelligence,Offer Issued,Offer
+803,728,Dublin City University,BA in Marketing,Submitted,
+804,729,Technological University Dublin,BA in Economics,Submitted,
+805,729,Trinity College Dublin,BSc in Information Technology,Offer Issued,Offer
+806,730,Dublin City University,MSc in Data Analytics,Rejected,Rejected
+807,732,Technological University Dublin,BSc in Accounting and Finance,Offer Issued,Offer
+808,733,University of Galway,BA in International Business,Under Review,
+809,734,Technological University Dublin,BEng in Civil Engineering,Offer Issued,Offer
+810,735,Maynooth University,BA in Marketing,Rejected,Rejected
+811,735,University of Limerick,MBA in Business Administration,Under Review,
+812,736,University College Dublin,LLB in Law,Offer Issued,Offer
+813,737,University College Cork,BA in International Business,Offer Issued,Offer
+814,737,University of Galway,LLB in Law,Under Review,
+815,737,Trinity College Dublin,MSc in Digital Transformation,Offer Issued,Offer
+816,738,University of Galway,BSc in Information Technology,Rejected,Rejected
+817,739,Griffith College,LLB in Law,Documents Pending,
+818,739,Maynooth University,BSc in Business Information Systems,Submitted,
+819,740,University College Dublin,BA in Economics,Documents Pending,
+820,742,University of Galway,BA in Marketing,Offer Issued,Offer
+821,743,Trinity College Dublin,BSc in Cybersecurity,Documents Pending,
+822,744,University of Limerick,BEng in Electrical Engineering,Documents Pending,
+823,745,Trinity College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+824,746,National College of Ireland,MSc in Cloud Computing,Offer Issued,Offer
+825,748,Dublin City University,BEng in Electrical Engineering,Offer Issued,Offer
+826,749,National College of Ireland,MSc in Cybersecurity,Offer Issued,Offer
+827,749,University College Dublin,MA in International Relations,Rejected,Rejected
+828,750,University of Limerick,MSc in Cybersecurity,Offer Issued,Offer
+829,751,Griffith College,MSc in Cybersecurity,Rejected,Rejected
+830,751,National College of Ireland,BSc in Software Engineering,Under Review,
+831,753,University of Limerick,MBA in International Business,Offer Issued,Offer
+832,753,National College of Ireland,MSc in Data Analytics,Offer Issued,Offer
+833,754,Technological University Dublin,BSc in Accounting and Finance,Documents Pending,
+834,754,Dublin Business School,BA in International Business,Submitted,
+835,755,Dublin City University,MSc in Software Engineering,Documents Pending,
+836,755,National College of Ireland,MSc in Finance,Offer Issued,Offer
+837,757,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+838,757,University of Galway,BSc in Accounting and Finance,Submitted,
+839,758,University of Limerick,BSc in Information Technology,Submitted,
+840,758,Dublin City University,BSc in Nursing,Under Review,
+841,759,University of Galway,BEng in Electrical Engineering,Offer Issued,Offer
+842,759,Maynooth University,MSc in Project Management,Offer Issued,Offer
+843,759,University of Galway,MSc in Cloud Computing,Offer Issued,Offer
+844,761,University College Cork,MBA in International Business,Documents Pending,
+845,761,University College Cork,BSc in Nursing,Rejected,Rejected
+846,762,University College Dublin,MSc in Data Analytics,Rejected,Rejected
+847,763,University of Galway,BA in Business Management,Offer Issued,Offer
+848,763,Trinity College Dublin,MSc in Project Management,Submitted,
+849,764,Griffith College,MA in International Relations,Offer Issued,Offer
+850,764,Technological University Dublin,MBA in International Business,Under Review,
+851,768,National College of Ireland,BA in Economics,Documents Pending,
+852,768,Trinity College Dublin,BSc in Computer Science,Under Review,
+853,770,Griffith College,BEng in Civil Engineering,Offer Issued,Offer
+854,772,Griffith College,MSc in Finance,Documents Pending,
+855,775,University of Limerick,MA in Human Resource Management,Offer Issued,Offer
+856,776,National College of Ireland,MSc in Cloud Computing,Rejected,Rejected
+857,777,Dublin Business School,BSc in Information Technology,Offer Issued,Offer
+858,778,University of Galway,MSc in Business Analytics,Documents Pending,
+859,779,Technological University Dublin,BA in Digital Media,Under Review,
+860,780,Dublin Business School,BEng in Mechanical Engineering,Offer Issued,Offer
+861,780,Trinity College Dublin,BSc in Computer Science,Offer Issued,Offer
+862,781,Trinity College Dublin,MSc in Business Analytics,Offer Issued,Offer
+863,781,University College Cork,MSc in Financial Technology,Rejected,Rejected
+864,785,Trinity College Dublin,BSc in Computer Science,Offer Issued,Offer
+865,785,Dublin Business School,MSc in Project Management,Submitted,
+866,786,Dublin Business School,MSc in Finance,Offer Issued,Offer
+867,787,University of Galway,BSc in Data Science,Offer Issued,Offer
+868,790,National College of Ireland,BA in Digital Media,Documents Pending,
+869,790,Griffith College,MSc in Financial Technology,Submitted,
+870,791,Griffith College,MSc in Digital Transformation,Offer Issued,Offer
+871,792,Technological University Dublin,MA in International Relations,Offer Issued,Offer
+872,792,Griffith College,BEng in Civil Engineering,Submitted,
+873,792,Griffith College,BA in Digital Media,Rejected,Rejected
+874,793,University College Dublin,BEng in Mechanical Engineering,Documents Pending,
+875,793,Dublin Business School,LLB in Law,Offer Issued,Offer
+876,793,Dublin Business School,MSc in Digital Transformation,Offer Issued,Offer
+877,799,Maynooth University,BSc in Information Technology,Offer Issued,Offer
+878,800,Dublin Business School,MSc in Financial Technology,Offer Issued,Offer
+879,800,Technological University Dublin,MSc in Business Analytics,Submitted,
+880,801,University of Limerick,BA in International Business,Offer Issued,Offer
+881,802,University of Limerick,LLB in Law,Offer Issued,Offer
+882,802,Maynooth University,BSc in Nursing,Rejected,Rejected
+883,804,Maynooth University,MSc in Financial Technology,Offer Issued,Offer
+884,805,University of Limerick,MSc in Cybersecurity,Offer Issued,Offer
+885,806,University of Limerick,BBA in Business Administration,Rejected,Rejected
+886,806,Maynooth University,BEng in Electrical Engineering,Submitted,
+887,807,Dublin City University,MBA in Business Administration,Documents Pending,
+888,807,National College of Ireland,BSc in Business Information Systems,Under Review,
+889,808,Technological University Dublin,BA in Business Management,Offer Issued,Offer
+890,808,University of Galway,MBA in Business Administration,Submitted,
+891,809,Maynooth University,BSc in Cybersecurity,Offer Issued,Offer
+892,809,University of Galway,MSc in Cybersecurity,Submitted,
+893,810,University of Limerick,BA in Business Management,Offer Issued,Offer
+894,810,Technological University Dublin,BBA in Business Administration,Rejected,Rejected
+895,812,Trinity College Dublin,MSc in Finance,Offer Issued,Offer
+896,812,University of Limerick,BSc in Data Science,Under Review,
+897,813,University College Dublin,MA in Digital Marketing,Offer Issued,Offer
+898,813,Technological University Dublin,MBA in Business Administration,Offer Issued,Offer
+899,814,National College of Ireland,BEng in Mechanical Engineering,Offer Issued,Offer
+900,814,Technological University Dublin,BSc in Computer Science,Offer Issued,Offer
+901,815,Trinity College Dublin,MSc in Cloud Computing,Rejected,Rejected
+902,815,University College Dublin,BA in Digital Media,Offer Issued,Offer
+903,816,National College of Ireland,MBA in International Business,Offer Issued,Offer
+904,816,University College Cork,BA in International Business,Offer Issued,Offer
+905,818,University of Limerick,BSc in Information Technology,Under Review,
+906,819,University College Cork,MSc in Data Analytics,Offer Issued,Offer
+907,820,University of Limerick,BEng in Civil Engineering,Offer Issued,Offer
+908,821,National College of Ireland,MSc in Computer Science,Offer Issued,Offer
+909,821,University College Dublin,BSc in Software Engineering,Under Review,
+910,823,Dublin Business School,BSc in Software Engineering,Under Review,
+911,825,Maynooth University,BSc in Nursing,Offer Issued,Offer
+912,826,Dublin City University,MSc in Cloud Computing,Offer Issued,Offer
+913,826,Maynooth University,MSc in Software Engineering,Offer Issued,Offer
+914,827,Maynooth University,MA in Digital Marketing,Offer Issued,Offer
+915,827,Griffith College,LLB in Law,Under Review,
+916,828,Technological University Dublin,BA in Digital Media,Rejected,Rejected
+917,829,University of Limerick,BEng in Electrical Engineering,Documents Pending,
+918,829,University College Cork,BSc in Cybersecurity,Under Review,
+919,829,Trinity College Dublin,BA in Economics,Submitted,
+920,830,University of Limerick,MBA in Business Administration,Offer Issued,Offer
+921,832,University College Cork,BA in Psychology,Documents Pending,
+922,832,Trinity College Dublin,MSc in Project Management,Rejected,Rejected
+923,834,Dublin Business School,LLB in Law,Under Review,
+924,835,University College Dublin,BSc in Software Engineering,Rejected,Rejected
+925,836,Dublin City University,BEng in Civil Engineering,Offer Issued,Offer
+926,836,University of Limerick,BEng in Civil Engineering,Offer Issued,Offer
+927,837,University of Galway,MSc in Financial Technology,Offer Issued,Offer
+928,839,Trinity College Dublin,MA in Digital Marketing,Offer Issued,Offer
+929,840,Technological University Dublin,MSc in Digital Transformation,Offer Issued,Offer
+930,840,Trinity College Dublin,MSc in Software Engineering,Offer Issued,Offer
+931,841,Technological University Dublin,MA in International Relations,Offer Issued,Offer
+932,841,Trinity College Dublin,MSc in Project Management,Offer Issued,Offer
+933,842,Dublin City University,MBA in Business Administration,Submitted,
+934,842,Griffith College,MA in Digital Marketing,Submitted,
+935,843,University College Cork,BSc in Artificial Intelligence,Offer Issued,Offer
+936,843,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+937,843,Dublin City University,MA in International Relations,Rejected,Rejected
+938,844,University College Cork,LLB in Law,Offer Issued,Offer
+939,844,University of Galway,MA in International Relations,Offer Issued,Offer
+940,845,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+941,847,Trinity College Dublin,BSc in Data Science,Offer Issued,Offer
+942,847,University of Galway,MSc in Financial Technology,Submitted,
+943,848,Griffith College,BSc in Business Information Systems,Offer Issued,Offer
+944,849,Trinity College Dublin,BA in International Business,Offer Issued,Offer
+945,849,Technological University Dublin,MBA in Business Administration,Rejected,Rejected
+946,849,Maynooth University,BEng in Civil Engineering,Under Review,
+947,850,Technological University Dublin,MA in International Relations,Offer Issued,Offer
+948,850,Dublin City University,BSc in Nursing,Rejected,Rejected
+949,851,Trinity College Dublin,BSc in Computer Science,Offer Issued,Offer
+950,852,National College of Ireland,MSc in Digital Transformation,Under Review,
+951,853,National College of Ireland,BA in Digital Media,Documents Pending,
+952,853,Dublin City University,BA in Business Management,Offer Issued,Offer
+953,854,University College Cork,BA in Marketing,Rejected,Rejected
+954,855,University College Dublin,BA in Psychology,Offer Issued,Offer
+955,855,Griffith College,BEng in Electrical Engineering,Offer Issued,Offer
+956,856,Dublin City University,BSc in Accounting and Finance,Offer Issued,Offer
+957,856,Maynooth University,MA in International Relations,Offer Issued,Offer
+958,856,Trinity College Dublin,BEng in Mechanical Engineering,Offer Issued,Offer
+959,857,Dublin Business School,BEng in Mechanical Engineering,Submitted,
+960,858,Technological University Dublin,MA in International Relations,Offer Issued,Offer
+961,861,University of Galway,BA in Marketing,Documents Pending,
+962,862,Dublin City University,BSc in Accounting and Finance,Offer Issued,Offer
+963,863,Maynooth University,BA in Digital Media,Offer Issued,Offer
+964,863,Maynooth University,MSc in Business Analytics,Submitted,
+965,866,University of Galway,BSc in Accounting and Finance,Offer Issued,Offer
+966,866,University of Limerick,MSc in Artificial Intelligence,Under Review,
+967,866,Griffith College,BSc in Nursing,Offer Issued,Offer
+968,867,Maynooth University,MSc in Artificial Intelligence,Documents Pending,
+969,868,University of Galway,MSc in Cloud Computing,Offer Issued,Offer
+970,868,Griffith College,LLB in Law,Under Review,
+971,870,University of Galway,MSc in Financial Technology,Rejected,Rejected
+972,870,Trinity College Dublin,BSc in Business Information Systems,Under Review,
+973,871,Technological University Dublin,MSc in Digital Transformation,Documents Pending,
+974,872,Dublin City University,BEng in Civil Engineering,Rejected,Rejected
+975,873,Griffith College,MSc in Cloud Computing,Offer Issued,Offer
+976,876,Dublin Business School,MBA in International Business,Offer Issued,Offer
+977,877,Dublin Business School,BA in Psychology,Offer Issued,Offer
+978,879,Dublin City University,MSc in Data Analytics,Offer Issued,Offer
+979,880,University of Galway,BSc in Nursing,Documents Pending,
+980,881,Dublin City University,BSc in Business Information Systems,Documents Pending,
+981,881,University College Dublin,BSc in Accounting and Finance,Under Review,
+982,881,Dublin Business School,BA in International Business,Under Review,
+983,883,University College Dublin,MA in Digital Marketing,Documents Pending,
+984,885,Dublin Business School,MSc in Business Analytics,Rejected,Rejected
+985,886,University College Cork,MSc in Computer Science,Offer Issued,Offer
+986,887,Technological University Dublin,MSc in Digital Transformation,Offer Issued,Offer
+987,888,University College Cork,BA in Economics,Offer Issued,Offer
+988,888,Technological University Dublin,LLB in Law,Offer Issued,Offer
+989,889,Maynooth University,MSc in Digital Transformation,Under Review,
+990,889,Trinity College Dublin,MSc in Software Engineering,Rejected,Rejected
+991,890,Technological University Dublin,BBA in Business Administration,Offer Issued,Offer
+992,890,National College of Ireland,BSc in Data Science,Offer Issued,Offer
+993,890,Dublin City University,MSc in Computer Science,Rejected,Rejected
+994,892,University College Cork,BEng in Mechanical Engineering,Documents Pending,
+995,892,Technological University Dublin,BA in Business Management,Offer Issued,Offer
+996,892,Dublin City University,MSc in Project Management,Submitted,
+997,894,Technological University Dublin,MSc in Finance,Offer Issued,Offer
+998,895,University College Dublin,BSc in Data Science,Offer Issued,Offer
+999,896,Griffith College,BSc in Nursing,Offer Issued,Offer
+1000,896,Dublin Business School,MSc in Digital Transformation,Offer Issued,Offer
+1001,897,University College Cork,BA in International Business,Documents Pending,
+1002,897,University College Dublin,MBA in Business Administration,Submitted,
+1003,898,Trinity College Dublin,MSc in Artificial Intelligence,Rejected,Rejected
+1004,898,Griffith College,MSc in Cybersecurity,Offer Issued,Offer
+1005,899,University of Limerick,MSc in Finance,Offer Issued,Offer
+1006,900,University of Galway,MSc in Cybersecurity,Offer Issued,Offer
+1007,901,Dublin City University,BSc in Artificial Intelligence,Documents Pending,
+1008,902,Griffith College,BSc in Data Science,Offer Issued,Offer
+1009,902,Dublin City University,BBA in Business Administration,Under Review,
+1010,903,University College Dublin,BSc in Accounting and Finance,Offer Issued,Offer
+1011,903,Dublin Business School,BSc in Nursing,Offer Issued,Offer
+1012,904,University College Dublin,MA in International Relations,Under Review,
+1013,906,University College Cork,BSc in Cybersecurity,Documents Pending,
+1014,907,Dublin City University,MA in International Relations,Offer Issued,Offer
+1015,907,Dublin Business School,BSc in Data Science,Under Review,
+1016,909,University College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+1017,909,University College Dublin,BSc in Cybersecurity,Submitted,
+1018,910,Dublin City University,BA in Business Management,Offer Issued,Offer
+1019,910,University College Cork,MSc in Digital Transformation,Under Review,
+1020,910,Dublin City University,MSc in Computer Science,Offer Issued,Offer
+1021,913,National College of Ireland,BSc in Data Science,Documents Pending,
+1022,913,University College Dublin,BA in Marketing,Offer Issued,Offer
+1023,914,University of Galway,BSc in Data Science,Documents Pending,
+1024,915,Trinity College Dublin,BSc in Nursing,Offer Issued,Offer
+1025,915,National College of Ireland,BSc in Business Information Systems,Submitted,
+1026,916,Dublin Business School,BSc in Data Science,Documents Pending,
+1027,918,University of Limerick,MSc in Project Management,Rejected,Rejected
+1028,919,Trinity College Dublin,MSc in Business Analytics,Documents Pending,
+1029,920,Technological University Dublin,MA in International Relations,Rejected,Rejected
+1030,923,University of Galway,BA in Psychology,Documents Pending,
+1031,923,Dublin Business School,MA in Digital Marketing,Rejected,Rejected
+1032,924,National College of Ireland,BSc in Software Engineering,Rejected,Rejected
+1033,924,Maynooth University,BSc in Software Engineering,Offer Issued,Offer
+1034,926,National College of Ireland,BEng in Civil Engineering,Offer Issued,Offer
+1035,927,Technological University Dublin,BA in Digital Media,Offer Issued,Offer
+1036,929,University College Cork,BA in Economics,Offer Issued,Offer
+1037,930,University of Limerick,BA in Digital Media,Offer Issued,Offer
+1038,932,Dublin City University,BSc in Software Engineering,Offer Issued,Offer
+1039,932,University College Dublin,BSc in Nursing,Submitted,
+1040,932,Technological University Dublin,BA in Psychology,Rejected,Rejected
+1041,933,Maynooth University,BSc in Cybersecurity,Documents Pending,
+1042,933,National College of Ireland,BSc in Accounting and Finance,Under Review,
+1043,934,Maynooth University,BSc in Artificial Intelligence,Offer Issued,Offer
+1044,935,Griffith College,MA in Human Resource Management,Documents Pending,
+1045,937,University of Limerick,BA in Marketing,Offer Issued,Offer
+1046,938,University College Cork,MSc in Project Management,Offer Issued,Offer
+1047,939,University College Dublin,BSc in Business Information Systems,Offer Issued,Offer
+1048,941,Maynooth University,MA in Human Resource Management,Offer Issued,Offer
+1049,943,Technological University Dublin,MA in Digital Marketing,Rejected,Rejected
+1050,943,Griffith College,MA in Human Resource Management,Offer Issued,Offer
+1051,943,Dublin Business School,BA in International Business,Submitted,
+1052,944,Technological University Dublin,BA in Psychology,Documents Pending,
+1053,944,University College Cork,MBA in Business Administration,Offer Issued,Offer
+1054,944,Maynooth University,MSc in Artificial Intelligence,Submitted,
+1055,945,Maynooth University,MA in Digital Marketing,Rejected,Rejected
+1056,945,University College Cork,BA in Digital Media,Submitted,
+1057,946,University of Galway,MSc in Cloud Computing,Documents Pending,
+1058,947,Dublin City University,MSc in Project Management,Offer Issued,Offer
+1059,949,National College of Ireland,BSc in Software Engineering,Rejected,Rejected
+1060,950,Technological University Dublin,MSc in Finance,Offer Issued,Offer
+1061,952,Maynooth University,BSc in Nursing,Documents Pending,
+1062,952,University College Cork,MSc in Cybersecurity,Submitted,
+1063,952,Technological University Dublin,LLB in Law,Under Review,
+1064,953,Dublin City University,BSc in Nursing,Rejected,Rejected
+1065,953,University College Cork,MA in International Relations,Submitted,
+1066,954,Trinity College Dublin,MSc in Cybersecurity,Documents Pending,
+1067,957,University of Galway,MA in Human Resource Management,Rejected,Rejected
+1068,958,University College Cork,MSc in Cloud Computing,Offer Issued,Offer
+1069,959,Dublin City University,BSc in Cybersecurity,Documents Pending,
+1070,959,University College Dublin,BBA in Business Administration,Offer Issued,Offer
+1071,959,National College of Ireland,BSc in Software Engineering,Submitted,
+1072,960,University of Limerick,BA in International Business,Offer Issued,Offer
+1073,960,University College Cork,MSc in Software Engineering,Rejected,Rejected
+1074,963,National College of Ireland,MBA in International Business,Rejected,Rejected
+1075,964,Trinity College Dublin,BA in Economics,Under Review,
+1076,965,Dublin City University,BSc in Computer Science,Offer Issued,Offer
+1077,966,University College Dublin,BA in Business Management,Rejected,Rejected
+1078,967,Griffith College,BSc in Cybersecurity,Offer Issued,Offer
+1079,968,Maynooth University,MSc in Cybersecurity,Under Review,
+1080,968,Maynooth University,BSc in Data Science,Offer Issued,Offer
+1081,971,University of Limerick,BSc in Data Science,Offer Issued,Offer
+1082,971,Maynooth University,MA in Digital Marketing,Offer Issued,Offer
+1083,973,University College Cork,MSc in Project Management,Rejected,Rejected
+1084,973,Dublin City University,BSc in Software Engineering,Rejected,Rejected
+1085,974,Trinity College Dublin,BSc in Information Technology,Offer Issued,Offer
+1086,974,Technological University Dublin,BSc in Nursing,Under Review,
+1087,974,Trinity College Dublin,MSc in Finance,Offer Issued,Offer
+1088,977,University College Dublin,BSc in Computer Science,Offer Issued,Offer
+1089,977,University College Cork,BA in Marketing,Offer Issued,Offer
+1090,978,University College Cork,BA in International Business,Rejected,Rejected
+1091,980,University College Dublin,MSc in Finance,Offer Issued,Offer
+1092,980,University College Cork,MBA in Business Administration,Under Review,
+1093,980,Dublin City University,MSc in Finance,Under Review,
+1094,983,University of Limerick,MSc in Cloud Computing,Offer Issued,Offer
+1095,984,Dublin Business School,MSc in Data Analytics,Offer Issued,Offer
+1096,985,Technological University Dublin,MA in International Relations,Documents Pending,
+1097,986,National College of Ireland,BA in Marketing,Documents Pending,
+1098,986,Technological University Dublin,BEng in Electrical Engineering,Submitted,
+1099,987,Dublin Business School,BSc in Computer Science,Offer Issued,Offer
+1100,989,Dublin City University,BEng in Mechanical Engineering,Rejected,Rejected
+1101,989,Trinity College Dublin,MSc in Financial Technology,Offer Issued,Offer
+1102,989,Maynooth University,MSc in Project Management,Under Review,
+1103,990,Dublin Business School,BSc in Computer Science,Rejected,Rejected
+1104,990,National College of Ireland,BSc in Nursing,Offer Issued,Offer
+1105,993,Trinity College Dublin,BSc in Information Technology,Offer Issued,Offer
+1106,993,University College Dublin,MSc in Finance,Offer Issued,Offer
+1107,994,Griffith College,BSc in Accounting and Finance,Offer Issued,Offer
+1108,995,Trinity College Dublin,BSc in Information Technology,Offer Issued,Offer
+1109,995,Technological University Dublin,BSc in Business Information Systems,Offer Issued,Offer
+1110,995,Trinity College Dublin,MSc in Cybersecurity,Offer Issued,Offer
+1111,996,University College Cork,BEng in Electrical Engineering,Offer Issued,Offer
+1112,997,National College of Ireland,BA in Digital Media,Offer Issued,Offer
+1113,997,Technological University Dublin,MSc in Business Analytics,Under Review,
+1114,998,Griffith College,BSc in Cybersecurity,Offer Issued,Offer
+1115,998,University College Cork,MSc in Financial Technology,Offer Issued,Offer
+1116,999,National College of Ireland,MSc in Data Analytics,Offer Issued,Offer
+1117,1000,Dublin City University,BSc in Software Engineering,Documents Pending,
+1118,1000,Dublin City University,MSc in Cybersecurity,Submitted,

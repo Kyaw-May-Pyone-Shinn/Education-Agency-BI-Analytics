@@ -1,0 +1,136 @@
+commission_id,sj_id,s_id,app_id,visa_id,university_name,partnership_tier,rank_band,estimated_tuition_eur,commission_rate,commission_amount_eur,revenue_type,commission_status,earned_date,invoice_date,due_date,paid_date
+COM0001,4,4,2,2,Dublin City University,Silver,301-500,19800,0.15,2970,Earned,Paid,10/08/2026,17/08/2026,16/09/2026,31/08/2026
+COM0002,9,9,6,4,University College Cork,Gold,151-300,20600,0.165,3399,Forecast,Forecast,,,,
+COM0003,20,20,18,9,Technological University Dublin,Silver,501-800,17400,0.13,2262,Forecast,Forecast,,,,
+COM0004,25,25,22,11,National College of Ireland,Bronze,Partner Institution,15800,0.12,1896,Forecast,Forecast,,,,
+COM0005,26,26,23,12,Trinity College Dublin,Platinum,Top 150,22800,0.18,4104,Earned,Overdue,04/08/2026,09/08/2026,08/09/2026,
+COM0006,34,34,32,13,Technological University Dublin,Silver,501-800,17900,0.13,2327,Forecast,Forecast,,,,
+COM0007,61,61,63,18,Trinity College Dublin,Platinum,Top 150,28100,0.18,5058,Forecast,Forecast,,,,
+COM0008,65,65,67,20,Maynooth University,Silver,501-800,18900,0.135,2551.5,Earned,Paid,28/08/2026,02/09/2026,02/10/2026,14/09/2026
+COM0009,68,68,69,21,Dublin Business School,Bronze,Partner Institution,12500,0.11,1375,Forecast,Forecast,,,,
+COM0010,81,81,85,23,University of Galway,Gold,151-300,19700,0.16,3152,Earned,Earned - Not Invoiced,19/09/2026,,,
+COM0011,87,87,93,24,Maynooth University,Silver,501-800,16900,0.135,2281.5,Earned,Paid,22/08/2026,28/08/2026,27/09/2026,22/09/2026
+COM0012,88,88,95,25,Griffith College,Bronze,Partner Institution,16200,0.115,1863,Earned,Overdue,13/05/2026,22/05/2026,21/06/2026,
+COM0013,97,97,104,28,Griffith College,Bronze,Partner Institution,15100,0.115,1736.5,Forecast,Forecast,,,,
+COM0014,100,100,106,30,Maynooth University,Silver,501-800,19100,0.135,2578.5,Forecast,Forecast,,,,
+COM0015,105,105,109,31,Dublin Business School,Bronze,Partner Institution,13800,0.11,1518,Forecast,Forecast,,,,
+COM0016,111,111,119,33,University of Limerick,Gold,301-500,17700,0.155,2743.5,Earned,Invoiced,28/08/2026,07/09/2026,07/10/2026,
+COM0017,119,119,126,35,University of Galway,Gold,151-300,20300,0.16,3248,Earned,Paid,01/07/2026,06/07/2026,05/08/2026,05/09/2026
+COM0018,127,127,135,40,University College Cork,Gold,151-300,18400,0.165,3036,Earned,Paid,23/08/2026,27/08/2026,26/09/2026,01/09/2026
+COM0019,136,136,149,43,Griffith College,Bronze,Partner Institution,15800,0.115,1817,Forecast,Forecast,,,,
+COM0020,147,147,164,45,University of Limerick,Gold,301-500,20000,0.155,3100,Earned,Paid,29/08/2026,08/09/2026,08/10/2026,12/09/2026
+COM0021,175,175,198,52,University of Limerick,Gold,301-500,20700,0.155,3208.5,Earned,Invoiced,17/08/2026,25/08/2026,24/09/2026,
+COM0022,186,186,209,54,National College of Ireland,Bronze,Partner Institution,14400,0.12,1728,Forecast,Forecast,,,,
+COM0023,189,189,213,55,Maynooth University,Silver,501-800,19900,0.135,2686.5,Forecast,Forecast,,,,
+COM0024,198,198,222,59,Dublin Business School,Bronze,Partner Institution,15600,0.11,1716,Forecast,Forecast,,,,
+COM0025,202,202,229,61,University College Cork,Gold,151-300,22700,0.165,3745.5,Earned,Paid,28/08/2026,02/09/2026,02/10/2026,08/09/2026
+COM0026,216,216,245,64,University of Galway,Gold,151-300,18200,0.16,2912,Forecast,Forecast,,,,
+COM0027,218,218,248,65,Griffith College,Bronze,Partner Institution,14400,0.115,1656,Forecast,Forecast,,,,
+COM0028,234,234,263,67,University of Galway,Gold,151-300,17300,0.16,2768,Forecast,Forecast,,,,
+COM0029,258,258,284,73,University College Cork,Gold,151-300,18900,0.165,3118.5,Forecast,Forecast,,,,
+COM0030,259,259,285,74,University of Galway,Gold,151-300,21100,0.16,3376,Earned,Paid,28/05/2026,04/06/2026,04/07/2026,30/07/2026
+COM0031,268,268,298,76,University of Galway,Gold,151-300,21500,0.16,3440,Earned,Invoiced,26/08/2026,02/09/2026,02/10/2026,
+COM0032,283,283,313,81,University College Dublin,Platinum,Top 150,27700,0.18,4986,Earned,Paid,31/08/2026,10/09/2026,10/10/2026,21/09/2026
+COM0033,290,290,321,84,Dublin Business School,Bronze,Partner Institution,13300,0.11,1463,Forecast,Forecast,,,,
+COM0034,294,294,326,86,University of Limerick,Gold,301-500,18500,0.155,2867.5,Earned,Invoiced,15/09/2026,20/09/2026,20/10/2026,
+COM0035,295,295,327,87,Dublin Business School,Bronze,Partner Institution,13900,0.11,1529,Earned,Paid,11/08/2026,21/08/2026,20/09/2026,16/09/2026
+COM0036,296,296,329,88,Dublin Business School,Bronze,Partner Institution,12800,0.11,1408,Earned,Invoiced,31/08/2026,10/09/2026,10/10/2026,
+COM0037,317,317,350,93,University College Cork,Gold,151-300,18800,0.165,3102,Earned,Paid,02/09/2026,06/09/2026,06/10/2026,13/09/2026
+COM0038,323,323,356,94,University of Limerick,Gold,301-500,19100,0.155,2960.5,Forecast,Forecast,,,,
+COM0039,326,326,360,95,Trinity College Dublin,Platinum,Top 150,23800,0.18,4284,Forecast,Forecast,,,,
+COM0040,338,338,378,99,Maynooth University,Silver,501-800,18300,0.135,2470.5,Forecast,Forecast,,,,
+COM0041,339,339,380,100,University College Cork,Gold,151-300,20600,0.165,3399,Forecast,Forecast,,,,
+COM0042,345,345,384,101,University College Cork,Gold,151-300,23000,0.165,3795,Forecast,Forecast,,,,
+COM0043,347,347,388,103,University College Dublin,Platinum,Top 150,25600,0.18,4608,Forecast,Forecast,,,,
+COM0044,356,356,401,106,Trinity College Dublin,Platinum,Top 150,24500,0.18,4410,Forecast,Forecast,,,,
+COM0045,371,371,412,108,Technological University Dublin,Silver,501-800,17200,0.13,2236,Forecast,Forecast,,,,
+COM0046,380,380,421,113,Griffith College,Bronze,Partner Institution,15700,0.115,1805.5,Earned,Overdue,04/04/2026,08/04/2026,08/05/2026,
+COM0047,390,390,434,115,University of Galway,Gold,151-300,19300,0.16,3088,Earned,Paid,29/07/2026,05/08/2026,04/09/2026,11/08/2026
+COM0048,392,392,438,116,National College of Ireland,Bronze,Partner Institution,14200,0.12,1704,Earned,Paid,27/08/2026,30/08/2026,29/09/2026,03/09/2026
+COM0049,410,410,459,119,National College of Ireland,Bronze,Partner Institution,15700,0.12,1884,Forecast,Forecast,,,,
+COM0050,425,425,476,123,Trinity College Dublin,Platinum,Top 150,23100,0.18,4158,Earned,Earned - Not Invoiced,18/09/2026,,,
+COM0051,426,426,479,124,University of Galway,Gold,151-300,18200,0.16,2912,Forecast,Forecast,,,,
+COM0052,432,432,488,126,Trinity College Dublin,Platinum,Top 150,22100,0.18,3978,Forecast,Forecast,,,,
+COM0053,437,437,493,128,Griffith College,Bronze,Partner Institution,15600,0.115,1794,Earned,Paid,15/08/2026,21/08/2026,20/09/2026,06/09/2026
+COM0054,440,440,495,129,Trinity College Dublin,Platinum,Top 150,27300,0.18,4914,Forecast,Forecast,,,,
+COM0055,442,442,497,130,National College of Ireland,Bronze,Partner Institution,15800,0.12,1896,Forecast,Forecast,,,,
+COM0056,444,444,498,131,Technological University Dublin,Silver,501-800,17000,0.13,2210,Forecast,Forecast,,,,
+COM0057,448,448,503,132,University of Limerick,Gold,301-500,19000,0.155,2945,Forecast,Forecast,,,,
+COM0058,452,452,505,133,Griffith College,Bronze,Partner Institution,14800,0.115,1702,Earned,Invoiced,09/09/2026,19/09/2026,19/10/2026,
+COM0059,456,456,509,135,University College Dublin,Platinum,Top 150,21100,0.18,3798,Forecast,Forecast,,,,
+COM0060,457,457,510,136,Maynooth University,Silver,501-800,15600,0.135,2106,Forecast,Forecast,,,,
+COM0061,471,471,527,140,Trinity College Dublin,Platinum,Top 150,27300,0.18,4914,Forecast,Forecast,,,,
+COM0062,482,482,535,141,University of Galway,Gold,151-300,19800,0.16,3168,Forecast,Forecast,,,,
+COM0063,484,484,536,142,University College Dublin,Platinum,Top 150,24500,0.18,4410,Earned,Invoiced,08/09/2026,18/09/2026,18/10/2026,
+COM0064,487,487,537,143,University of Limerick,Gold,301-500,20700,0.155,3208.5,Forecast,Forecast,,,,
+COM0065,491,491,541,144,Technological University Dublin,Silver,501-800,16400,0.13,2132,Earned,Overdue,09/07/2026,13/07/2026,12/08/2026,
+COM0066,495,495,543,145,Maynooth University,Silver,501-800,17800,0.135,2403,Earned,Paid,23/12/2025,02/01/2026,01/02/2026,12/09/2026
+COM0067,502,502,549,147,Dublin City University,Silver,301-500,18600,0.15,2790,Earned,Paid,19/08/2026,22/08/2026,21/09/2026,20/09/2026
+COM0068,512,512,560,149,University of Limerick,Gold,301-500,18200,0.155,2821,Forecast,Forecast,,,,
+COM0069,528,528,580,153,Trinity College Dublin,Platinum,Top 150,22200,0.18,3996,Earned,Paid,13/12/2025,21/12/2025,20/01/2026,31/01/2026
+COM0070,542,542,593,157,Dublin Business School,Bronze,Partner Institution,13700,0.11,1507,Earned,Paid,05/09/2026,14/09/2026,14/10/2026,20/09/2026
+COM0071,547,547,597,158,Dublin Business School,Bronze,Partner Institution,12900,0.11,1419,Forecast,Forecast,,,,
+COM0072,564,564,620,162,Maynooth University,Silver,501-800,17000,0.135,2295,Forecast,Forecast,,,,
+COM0073,577,577,633,167,University College Dublin,Platinum,Top 150,26800,0.18,4824,Earned,Earned - Not Invoiced,15/09/2026,,,
+COM0074,582,582,637,168,University College Dublin,Platinum,Top 150,21900,0.18,3942,Forecast,Forecast,,,,
+COM0075,590,590,655,171,Trinity College Dublin,Platinum,Top 150,22500,0.18,4050,Earned,Paid,16/05/2025,20/05/2025,19/06/2025,22/05/2026
+COM0076,594,594,660,174,Trinity College Dublin,Platinum,Top 150,24300,0.18,4374,Forecast,Forecast,,,,
+COM0077,595,595,661,175,Griffith College,Bronze,Partner Institution,13700,0.115,1575.5,Forecast,Forecast,,,,
+COM0078,598,598,664,176,Technological University Dublin,Silver,501-800,16500,0.13,2145,Earned,Earned - Not Invoiced,15/09/2026,,,
+COM0079,613,613,684,178,Maynooth University,Silver,501-800,17800,0.135,2403,Forecast,Forecast,,,,
+COM0080,620,620,690,180,University College Cork,Gold,151-300,22700,0.165,3745.5,Earned,Invoiced,01/09/2026,04/09/2026,04/10/2026,
+COM0081,626,626,698,182,University of Limerick,Gold,301-500,20200,0.155,3131,Forecast,Forecast,,,,
+COM0082,636,636,704,183,University College Cork,Gold,151-300,20400,0.165,3366,Forecast,Forecast,,,,
+COM0083,639,639,708,184,Maynooth University,Silver,501-800,19100,0.135,2578.5,Forecast,Forecast,,,,
+COM0084,640,640,709,185,University of Galway,Gold,151-300,18000,0.16,2880,Forecast,Forecast,,,,
+COM0085,642,642,712,186,Technological University Dublin,Silver,501-800,13600,0.13,1768,Earned,Paid,15/07/2025,22/07/2025,21/08/2025,17/01/2026
+COM0086,643,643,713,187,National College of Ireland,Bronze,Partner Institution,13400,0.12,1608,Forecast,Forecast,,,,
+COM0087,644,644,715,188,Griffith College,Bronze,Partner Institution,15400,0.115,1771,Forecast,Forecast,,,,
+COM0088,646,646,718,189,National College of Ireland,Bronze,Partner Institution,14800,0.12,1776,Forecast,Forecast,,,,
+COM0089,655,655,730,192,University of Galway,Gold,151-300,18000,0.16,2880,Forecast,Forecast,,,,
+COM0090,661,661,737,194,Trinity College Dublin,Platinum,Top 150,26000,0.18,4680,Forecast,Forecast,,,,
+COM0091,670,670,745,196,University College Cork,Gold,151-300,18900,0.165,3118.5,Forecast,Forecast,,,,
+COM0092,673,673,751,198,Griffith College,Bronze,Partner Institution,15300,0.115,1759.5,Earned,Overdue,20/03/2026,26/03/2026,25/04/2026,
+COM0093,674,674,753,199,Trinity College Dublin,Platinum,Top 150,25600,0.18,4608,Earned,Overdue,01/06/2026,06/06/2026,06/07/2026,
+COM0094,684,684,763,202,University College Cork,Gold,151-300,20300,0.165,3349.5,Earned,Paid,19/08/2026,22/08/2026,21/09/2026,11/09/2026
+COM0095,704,704,784,207,University College Dublin,Platinum,Top 150,22400,0.18,4032,Earned,Paid,19/08/2026,28/08/2026,27/09/2026,17/09/2026
+COM0096,707,707,786,208,Technological University Dublin,Silver,501-800,16300,0.13,2119,Forecast,Forecast,,,,
+COM0097,715,715,791,210,University of Limerick,Gold,301-500,18500,0.155,2867.5,Forecast,Forecast,,,,
+COM0098,722,722,796,212,Technological University Dublin,Silver,501-800,13900,0.13,1807,Earned,Paid,12/09/2026,17/09/2026,17/10/2026,19/09/2026
+COM0099,734,734,809,216,Technological University Dublin,Silver,501-800,14000,0.13,1820,Forecast,Forecast,,,,
+COM0100,737,737,813,218,University College Cork,Gold,151-300,23800,0.165,3927,Forecast,Forecast,,,,
+COM0101,742,742,820,219,University of Galway,Gold,151-300,22500,0.16,3600,Earned,Invoiced,06/09/2026,14/09/2026,14/10/2026,
+COM0102,748,748,825,222,Dublin City University,Silver,301-500,19300,0.15,2895,Earned,Paid,07/08/2026,13/08/2026,12/09/2026,16/09/2026
+COM0103,749,749,826,223,National College of Ireland,Bronze,Partner Institution,14100,0.12,1692,Forecast,Forecast,,,,
+COM0104,757,757,837,224,Dublin City University,Silver,301-500,20800,0.15,3120,Forecast,Forecast,,,,
+COM0105,759,759,841,225,University of Galway,Gold,151-300,21700,0.16,3472,Earned,Invoiced,28/08/2026,02/09/2026,02/10/2026,
+COM0106,787,787,867,228,University of Galway,Gold,151-300,21300,0.16,3408,Earned,Invoiced,23/08/2026,02/09/2026,02/10/2026,
+COM0107,791,791,870,229,Griffith College,Bronze,Partner Institution,14300,0.115,1644.5,Earned,Invoiced,07/09/2026,10/09/2026,10/10/2026,
+COM0108,800,800,878,230,Dublin Business School,Bronze,Partner Institution,13100,0.11,1441,Forecast,Forecast,,,,
+COM0109,801,801,880,231,University of Limerick,Gold,301-500,17000,0.155,2635,Earned,Invoiced,09/09/2026,17/09/2026,17/10/2026,
+COM0110,809,809,891,234,Maynooth University,Silver,501-800,19500,0.135,2632.5,Forecast,Forecast,,,,
+COM0111,819,819,906,238,University College Cork,Gold,151-300,20700,0.165,3415.5,Earned,Paid,08/08/2026,16/08/2026,15/09/2026,21/08/2026
+COM0112,821,821,908,239,National College of Ireland,Bronze,Partner Institution,13800,0.12,1656,Forecast,Forecast,,,,
+COM0113,825,825,911,240,Maynooth University,Silver,501-800,16500,0.135,2227.5,Forecast,Forecast,,,,
+COM0114,826,826,912,241,Dublin City University,Silver,301-500,18700,0.15,2805,Earned,Earned - Not Invoiced,17/09/2026,,,
+COM0115,827,827,914,242,Maynooth University,Silver,501-800,15900,0.135,2146.5,Earned,Invoiced,04/09/2026,09/09/2026,09/10/2026,
+COM0116,830,830,920,243,University of Limerick,Gold,301-500,21200,0.155,3286,Earned,Paid,13/08/2026,16/08/2026,15/09/2026,30/08/2026
+COM0117,841,841,931,244,Technological University Dublin,Silver,501-800,16900,0.13,2197,Forecast,Forecast,,,,
+COM0118,848,848,943,248,Griffith College,Bronze,Partner Institution,15400,0.115,1771,Earned,Overdue,15/07/2026,25/07/2026,24/08/2026,
+COM0119,856,856,956,252,Dublin City University,Silver,301-500,17900,0.15,2685,Forecast,Forecast,,,,
+COM0120,858,858,960,253,Technological University Dublin,Silver,501-800,16300,0.13,2119,Forecast,Forecast,,,,
+COM0121,866,866,965,255,University of Galway,Gold,151-300,20500,0.16,3280,Forecast,Forecast,,,,
+COM0122,868,868,969,256,University of Galway,Gold,151-300,20900,0.16,3344,Earned,Invoiced,01/09/2026,11/09/2026,11/10/2026,
+COM0123,877,877,977,258,Dublin Business School,Bronze,Partner Institution,12300,0.11,1353,Earned,Paid,03/09/2026,07/09/2026,07/10/2026,12/09/2026
+COM0124,888,888,987,261,University College Cork,Gold,151-300,20500,0.165,3382.5,Earned,Invoiced,19/09/2026,22/09/2026,22/10/2026,
+COM0125,890,890,991,262,Technological University Dublin,Silver,501-800,13700,0.13,1781,Forecast,Forecast,,,,
+COM0126,894,894,997,263,Technological University Dublin,Silver,501-800,15700,0.13,2041,Earned,Paid,15/08/2026,18/08/2026,17/09/2026,27/08/2026
+COM0127,895,895,998,264,University College Dublin,Platinum,Top 150,22600,0.18,4068,Forecast,Forecast,,,,
+COM0128,902,902,1008,267,Griffith College,Bronze,Partner Institution,13100,0.115,1506.5,Forecast,Forecast,,,,
+COM0129,909,909,1016,269,University College Dublin,Platinum,Top 150,20800,0.18,3744,Earned,Overdue,12/04/2026,15/04/2026,15/05/2026,
+COM0130,910,910,1018,270,Dublin City University,Silver,301-500,18700,0.15,2805,Earned,Paid,20/08/2026,29/08/2026,28/09/2026,20/09/2026
+COM0131,926,926,1034,272,National College of Ireland,Bronze,Partner Institution,13700,0.12,1644,Forecast,Forecast,,,,
+COM0132,927,927,1035,273,Technological University Dublin,Silver,501-800,17700,0.13,2301,Forecast,Forecast,,,,
+COM0133,930,930,1037,274,University of Limerick,Gold,301-500,19700,0.155,3053.5,Forecast,Forecast,,,,
+COM0134,938,938,1046,276,University College Cork,Gold,151-300,20100,0.165,3316.5,Earned,Paid,07/08/2026,17/08/2026,16/09/2026,20/08/2026
+COM0135,971,971,1081,282,University of Limerick,Gold,301-500,19800,0.155,3069,Earned,Paid,24/02/2026,28/02/2026,30/03/2026,09/04/2026
