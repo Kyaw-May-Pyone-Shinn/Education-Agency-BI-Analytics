@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.python-version
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secrets / local config (never commit DB passwords or connection strings)
+.env
+*.local
+
+# Power BI temp
+*.pbix.tmp
+
+# Optional: uncomment to keep large raw Mockaroo exports out of git
+# data/raw/
